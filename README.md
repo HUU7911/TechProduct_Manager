@@ -5,7 +5,7 @@
 
 ## Clone dự án
 ```bash
-git clone 
+git clone https://github.com/HUU7911/TechProduct_Manager.git
 ```
 ## Cách chạy
 ```bash
