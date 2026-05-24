@@ -11,7 +11,8 @@ git clone https://github.com/HUU7911/TechProduct_Manager.git
 ```bash
 java -jar TechProductManager.jar
 ```
-Hoặc double-click file `TechProductManager.jar` nếu Java được cài đặt đúng cách.
+- Hoặc double-click file `TechProductManager.jar` nếu Java được cài đặt đúng cách.
+- Hoặc chạy file `Main.java` trong package.
 
 ## Tài khoản mặc định
 - **Username:** admin
@@ -47,5 +48,7 @@ com.techstore
 ├── mapper/       — ProductMapper, AdminMapper (interface)
 ├── service/      — ProductService, AdminService, PasswordUtil (impl)
 ├── ui/           — Toàn bộ giao diện Swing
-└── Main.java     — Entry point
+Main.java     — Entry point
 ```
+## Lưu ý:
+- Dự án được build bằng `JDK21` + `Maven` và được thực thi trên hệ điều hành `Linux` phiên bản `Ubuntu 26.04`
