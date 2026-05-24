@@ -3,6 +3,10 @@
 ## Yêu cầu hệ thống
 - Java 17+ (JRE hoặc JDK)
 
+## Clone dự án
+```bash
+git clone 
+```
 ## Cách chạy
 ```bash
 java -jar TechProductManager.jar
