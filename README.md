@@ -9,10 +9,10 @@ git clone https://github.com/HUU7911/TechProduct_Manager.git
 ```
 ## Cách chạy
 ```bash
-java -jar TechProductManager.jar
+java -jar target/TechProduct_Manager-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 - Hoặc double-click file `TechProductManager.jar` nếu Java được cài đặt đúng cách.
-- Hoặc chạy file `Main.java` trong package.
+- Hoặc chạy file `Main.java` trong `com.techstore`.
 
 ## Tài khoản mặc định
 - **Username:** admin
