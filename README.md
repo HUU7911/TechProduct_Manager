@@ -45,11 +45,11 @@ Sau khi chạy lần đầu, thư mục `data/` sẽ được tạo:
 ```
 com.techstore
 ├── entity/       - Product, Admin (POJO)
-├── exception     - AppException, ErrorCode, GlobalExceptionHandler (enum)
+├── exception/    - AppException, ErrorCode, GlobalExceptionHandler (enum)
 ├── mapper/       - ProductMapper, AdminMapper (interface)
 ├── service/      - ProductService, AdminService, PasswordUtil (impl)
 ├── ui/           - Toàn bộ giao diện Swing
-├──Main.java      - Entry point
+├── Main.java     - Entry point
 ```
 ## Lưu ý:
 - Dự án được build bằng `JDK21` + `Maven` và được thực thi trên hệ điều hành `Linux` phiên bản `Ubuntu 26.04`
