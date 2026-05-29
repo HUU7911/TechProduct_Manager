@@ -16,7 +16,7 @@ java -jar target/TechProduct_Manager-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Tài khoản mặc định
 - **Username:** admin
-- **Password:** admin123
+- **Password:** admin12345
 
 ## Cấu trúc dữ liệu
 Sau khi chạy lần đầu, thư mục `data/` sẽ được tạo:
