@@ -1,0 +1,1013 @@
+29490885-d55f-46ee-8db3-e80ef466848e|Lenovo Tablet Standard 2023|Tablet|3.7142489E7|471|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12902985
+275db837-8fac-4d4e-aa54-93fb0fab8463|Huawei Đồng hồ thông minh Note 2020|Đồng hồ thông minh|4.4762649E7|94|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15049584
+0cfb5995-52cb-4351-a7cc-f9f8296922ea|Xiaomi Laptop Ultra 2021|Laptop|1.8184962E7|82|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15132723
+7dc453b8-d569-4732-beee-9bfd9d760949|Lenovo Phụ kiện Plus 2020|Phụ kiện|8144389.0|478|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15128375
+18ad8baa-b828-4855-adba-1e82b2653be5|Asus Tai nghe Plus 2023|Tai nghe|3.6839529E7|71|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-10269563
+28b09dbf-6b78-4943-802b-da9867a20276|Xiaomi Phụ kiện Lite 2021|Phụ kiện|3.3696461E7|205|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14523443
+e8f55734-bf10-4342-b7e0-594cc1ee9c8a|Sony Phụ kiện Mini 2022|Phụ kiện|2.1482452E7|211|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-14720377
+0b7183fd-1a11-43e0-be9b-b92a53d88384|Oppo Tablet Plus 2022|Tablet|1.7504783E7|79|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12560463
+abc4e88d-f80a-47b0-8283-78005dc24fa7|Sony Điện thoại Pro Max 2022|Điện thoại|2.0039337E7|308|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-14528851
+bbdbf2fa-3168-4221-a535-aae59ca644e2|HP Tablet Plus 2020|Tablet|2.5104613E7|386|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12622950
+0c46aba2-4236-4694-a0bd-78e22c39a00b|Asus Phụ kiện Plus 2024|Phụ kiện|2.7838951E7|279|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-10659215
+d046341d-4874-465b-af01-117574c9d202|Oppo Phụ kiện Ultra 2021|Phụ kiện|2.0629256E7|408|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12244114
+68cbe911-23d5-4587-9957-f621d4f190f7|Apple Phụ kiện S Series 2020|Phụ kiện|4.368216E7|393|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11187004
+b206a9d5-4a8b-4086-9f95-96601bb98441|Asus Điện thoại Standard 2020|Điện thoại|2.7201526E7|39|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-14539830
+4efc24af-38b9-49b0-9e57-c38186a89899|Apple Tablet Ultra 2022|Tablet|3.5107896E7|273|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-12441413
+b66db296-c631-43b9-8717-57e2c0fb6992|HP Tablet Mini 2021|Tablet|3.4763316E7|168|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-11254058
+30965251-63ad-4c93-989a-e1ad12a8d2a4|HP Laptop Pro Max 2021|Laptop|4.5202258E7|31|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-11720245
+2b0944f4-0a46-458f-964d-9bd22a96406d|Oppo Đồng hồ thông minh A Series 2021|Đồng hồ thông minh|4835304.0|112|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13938236
+4b196e7a-5938-4056-a9f2-f5a632cc35d3|Apple Đồng hồ thông minh Note 2021|Đồng hồ thông minh|3.0918177E7|378|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14999930
+69e4632b-781d-40e9-8442-00582fe74b80|Lenovo Điện thoại Lite 2021|Điện thoại|2.6270042E7|222|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11124518
+adb9c41e-e70a-4165-9041-ed6781748484|Apple Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|8351072.0|13|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14200947
+7d6a188e-00e6-4070-9768-906515dd1579|Dell Phụ kiện Plus 2022|Phụ kiện|3.9285776E7|353|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-14347057
+ef4aeb78-b6cc-41a8-9543-754c7395aa7b|Dell Đồng hồ thông minh Mini 2023|Đồng hồ thông minh|3.9464982E7|488|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-14729824
+8cf12cd7-8135-48d4-aa97-4140024c1383|Huawei Tablet Note 2021|Tablet|1.5528204E7|384|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13946436
+9e63059b-67a1-4d4f-abf6-2139ced99a24|Sony Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|7181602.0|428|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-11588402
+9b42a67e-2f55-41da-b372-b5d59a98c711|Lenovo Laptop Standard 2020|Laptop|3.6412843E7|26|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13936283
+f8f6b55d-1357-4fd0-8923-3566e281cc2d|Asus Laptop Mini 2021|Laptop|4.7767783E7|306|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12376198
+6d9ae608-f6e6-414a-939e-437d73c0c4b8|Lenovo Điện thoại Ultra 2024|Điện thoại|4.3560996E7|394|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14987572
+9c922f4b-40b4-4b14-8a21-5749e4801c7a|Lenovo Tai nghe Mini 2022|Tai nghe|3.5051522E7|259|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12772197
+769f8d48-e408-42ec-8ed8-337b9d73c427|Dell Laptop Lite 2021|Laptop|2.2805273E7|171|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-10336610
+54f2a544-4e89-49e2-83ff-7c4293452ac3|Huawei Tai nghe Standard 2022|Tai nghe|9899836.0|296|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12308321
+3d61feab-e797-480b-b1fd-bd9ec74f0847|Asus Đồng hồ thông minh A Series 2021|Đồng hồ thông minh|3878704.0|361|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-12638508
+9d4d2b5f-fb52-4be1-a6bf-aad4626f9833|Huawei Phụ kiện Ultra 2023|Phụ kiện|4.1518621E7|38|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11979131
+cced3b17-dd7e-40be-a838-55f16c9388e9|Huawei Phụ kiện A Series 2022|Phụ kiện|4.9106744E7|87|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10460479
+6127f218-98f4-44e5-9ea6-ebf082a3cdc5|Oppo Điện thoại Mini 2021|Điện thoại|4.2274179E7|114|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14197877
+81bd78e0-699c-4d2e-9315-1ba018161d75|Sony Laptop Ultra 2021|Laptop|1.4887771E7|41|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-10867798
+b9441d10-b471-419f-8112-39453a71a270|Lenovo Phụ kiện S Series 2022|Phụ kiện|1.7879867E7|73|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12304740
+5e659950-4c32-4d0a-9686-8b2428ed3206|Samsung Laptop Mini 2023|Laptop|4.5865115E7|496|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12116575
+072d8408-e150-4663-bf8a-4f8779d1c57b|Sony Điện thoại Standard 2020|Điện thoại|2.4562464E7|363|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-11710320
+e8f62acb-97cc-4a3c-b740-7105591121b6|Apple Tai nghe Edge 2020|Tai nghe|2.3290365E7|379|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-13409367
+bfd537f0-b3de-437a-bef1-945381eb79dc|Samsung Laptop A Series 2024|Laptop|3.974004E7|481|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14135362
+760e6b2b-8b6f-4d64-a980-8c382599299d|Dell Điện thoại S Series 2024|Điện thoại|3.7855306E7|409|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-15449728
+67efc893-b9bc-4ce1-9020-847ad975b61d|Sony Phụ kiện Note 2023|Phụ kiện|4.1897569E7|486|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11459120
+a94e8b39-e8d2-4233-982f-9e085ce116ce|Huawei Đồng hồ thông minh Edge 2021|Đồng hồ thông minh|2.5371639E7|36|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15387208
+451c922b-e38d-4576-be6a-2f999b8c0ef1|Lenovo Laptop A Series 2024|Laptop|3.5090274E7|175|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12238384
+d8f021ff-1910-4e16-b1e2-3c1ac44fc29c|Lenovo Phụ kiện S Series 2023|Phụ kiện|7323309.0|27|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13032495
+41c93b86-bfb3-4a71-b83d-cac56ee407fc|HP Phụ kiện Mini 2020|Phụ kiện|3.3199781E7|275|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11200574
+c6f030c8-9c83-483e-9821-0b0d1febf5bc|Dell Tablet Ultra 2023|Tablet|3.7191724E7|73|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-13362513
+a08d9980-fc86-4029-954d-9e61b597fd88|Lenovo Laptop S Series 2021|Laptop|2.7507483E7|186|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13027644
+8ae18146-316c-48f4-be0c-caa2c9ef39fc|Oppo Điện thoại Ultra 2020|Điện thoại|3107217.0|286|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13620601
+b9d2704e-07c3-42d8-bebb-12e45ddf333d|Apple Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|1.0263008E7|106|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14601272
+afa8f991-fbeb-4cf1-ba9b-8274de21ba7b|Dell Tai nghe Mini 2021|Tai nghe|2.3610366E7|153|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-12951678
+5464e733-a5d2-4b89-960f-7468ae4bd169|Xiaomi Đồng hồ thông minh Pro Max 2022|Đồng hồ thông minh|1.372114E7|486|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15253552
+8743291f-632b-48e9-a747-1acfe54f10fd|Sony Laptop A Series 2024|Laptop|4.5264161E7|33|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-12705609
+33f0f925-5e07-4af5-9196-826172f52416|Sony Phụ kiện Standard 2024|Phụ kiện|2.7587539E7|263|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-15129977
+7852d164-f9f3-4f06-a18f-0eed9e0ea79a|HP Phụ kiện Note 2023|Phụ kiện|1.5363989E7|104|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11196986
+df3bff32-bf2a-4f6b-aa5d-fac4b53c37cc|Asus Tablet Plus 2021|Tablet|4.0768548E7|356|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-10466714
+8973cb25-a417-44bc-a927-d8c2e6dfa488|Apple Tai nghe Edge 2023|Tai nghe|4.9588909E7|458|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-13874258
+1170ba22-a3f1-406c-bc6c-68c8d9ead2aa|Apple Tablet Edge 2021|Tablet|1.7211989E7|398|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-11586098
+f8c34c09-d82c-4063-a8f3-61b436476733|Xiaomi Laptop Mini 2020|Laptop|4.0871768E7|405|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12443175
+d6fc7cd5-c19c-462d-bdd3-4b8629a807a9|Xiaomi Tai nghe Plus 2021|Tai nghe|4.708584E7|345|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12046953
+d959f7e7-0c7c-4429-b0eb-4766b83e4ec2|Lenovo Tai nghe Ultra 2022|Tai nghe|4.8714791E7|160|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10530892
+9c729e8d-702a-4eb1-8952-673dae56f247|Huawei Tablet Mini 2024|Tablet|4.707867E7|446|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10919312
+64eea883-73b6-414c-bcc0-a256fd35b826|Xiaomi Tablet Mini 2024|Tablet|3.3739186E7|140|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11456329
+0b204fd3-c360-4d1e-82fe-0960e8a0b747|HP Điện thoại Note 2021|Điện thoại|2.682344E7|87|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-14281512
+49b7e9a7-f03c-48d2-b3a0-9af751ddd7fe|HP Tablet Plus 2020|Tablet|4.6683809E7|188|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12954440
+92c75888-6a8d-45cf-b8e0-6b013d824c51|Apple Đồng hồ thông minh Mini 2020|Đồng hồ thông minh|2.5835638E7|398|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14851899
+b246dccf-9976-4664-92c4-047552dc1a6c|Apple Phụ kiện Plus 2020|Phụ kiện|1.9885071E7|414|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-12053354
+a24d80ba-df98-47cc-991a-3ad2fcda855a|HP Phụ kiện Pro Max 2023|Phụ kiện|2.9061553E7|485|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-10538343
+61879d66-16e0-48d9-8814-ab94622d923d|Asus Điện thoại Note 2020|Điện thoại|3.6114897E7|183|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-14009386
+4869a0c8-36ab-49eb-92d8-6cf32bf53456|Oppo Điện thoại Mini 2020|Điện thoại|2.7782683E7|338|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11584310
+c175a06b-a4ef-46c1-a8d4-97181d122fbb|Xiaomi Điện thoại Note 2022|Điện thoại|4.8636445E7|86|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14524304
+051c2d3c-204a-4e71-b3f6-723f840884c1|Sony Điện thoại Ultra 2023|Điện thoại|3.5980782E7|131|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-13677200
+cd5f506a-b919-4ded-9ec9-c1469a4790c0|Oppo Laptop Standard 2021|Laptop|1.2272206E7|120|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13547399
+5a2ac050-e9aa-43fa-be34-6c9da64b0a97|Xiaomi Tai nghe Plus 2023|Tai nghe|1.9377433E7|362|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15194259
+0a4dd8d9-990f-4305-b59a-bd1884fb7035|Huawei Phụ kiện Ultra 2021|Phụ kiện|4.3815117E7|250|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12956280
+853bcf88-622f-474d-af19-aed8ce973d1b|Sony Điện thoại A Series 2024|Điện thoại|3.107615E7|192|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-12755546
+e61623b3-6aa0-4feb-8980-21768fec5788|Apple Laptop Note 2022|Laptop|1.9815825E7|281|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-10264721
+08a87ea0-5bd5-4158-927b-f06e06c1cc8c|Xiaomi Phụ kiện Pro Max 2022|Phụ kiện|3.4841056E7|48|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12103998
+a6b88ff0-2244-4ce3-a192-2a2a833a4cbf|Huawei Điện thoại Plus 2022|Điện thoại|3.3914895E7|163|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11716910
+b4be855c-024e-4860-aebe-3be4d86b9693|Oppo Laptop Standard 2020|Laptop|3.9953706E7|163|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10933029
+8862c7ad-9003-4eb6-a829-53ef1c6ff083|Oppo Laptop Plus 2024|Laptop|4.2062006E7|361|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13082211
+20b104ba-8a9f-408f-a819-7aec55017e68|Lenovo Tai nghe A Series 2024|Tai nghe|2.4772018E7|294|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11778392
+5249ef95-7c60-4ef1-8717-11d3a760b88b|Oppo Phụ kiện Edge 2022|Phụ kiện|1.9274394E7|408|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14666906
+b627fc1b-3e33-4b1d-85d0-53ae77c334b0|Asus Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|4.8295004E7|484|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-12299851
+bd38426d-5b26-41d6-af7f-f4b44b13afec|Huawei Phụ kiện Mini 2024|Phụ kiện|2.9396985E7|321|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15376241
+def45391-1909-4003-97d1-3d3ce5a604d0|HP Laptop S Series 2023|Laptop|1.3485539E7|305|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-12249721
+264449e2-1d22-4004-9ca0-21e80195eb24|Apple Laptop Edge 2021|Laptop|2.4601442E7|263|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-13220417
+dc606a7e-e6d4-416f-96b1-a6d748e6b7c1|Huawei Tablet Note 2021|Tablet|4.012981E7|288|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14330665
+a528160a-845f-488a-a650-522523dcb487|Dell Điện thoại Ultra 2024|Điện thoại|1248313.0|386|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-14664826
+a70930d6-c942-4bdf-bfc6-5b8a7b9e9c88|Dell Laptop Ultra 2022|Laptop|7909784.0|500|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-11131000
+fb6b1f0f-7839-4046-b395-683bb95c76b0|Sony Điện thoại Ultra 2020|Điện thoại|2.5137696E7|396|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-15115143
+727a5b4b-deaf-4333-a78e-8599e08f2d29|HP Phụ kiện A Series 2020|Phụ kiện|3.8184321E7|155|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-10665277
+350ca6bf-29da-448c-a5ae-de65167b5463|Dell Đồng hồ thông minh Pro Max 2022|Đồng hồ thông minh|1.4327737E7|249|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-10662488
+2c6dea0a-3305-4a25-9d2b-6f41035695c9|HP Phụ kiện Note 2020|Phụ kiện|2.0371785E7|249|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-14211674
+f10af9be-8af2-4826-83ae-b0826b376bfc|Oppo Phụ kiện Lite 2021|Phụ kiện|4.1154062E7|74|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14662442
+090a5851-6dc4-4c8d-b138-d3b5316050e3|Xiaomi Laptop Plus 2020|Laptop|8359700.0|335|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11190320
+02a2d63b-fa34-4e71-96ca-4e637ff12c4e|Lenovo Đồng hồ thông minh A Series 2020|Đồng hồ thông minh|1.7818266E7|493|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14989662
+96ac4603-2f2a-4ffd-89d1-ae7e5a7001c2|HP Tai nghe Pro Max 2021|Tai nghe|9784000.0|117|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-15380874
+3882be7e-1cfd-4852-9d45-ac14ecabcfce|Xiaomi Laptop Pro Max 2020|Laptop|2.0886313E7|381|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14656351
+c7425ee3-d24f-4bfb-a554-7467d36fffff|Xiaomi Điện thoại S Series 2021|Điện thoại|3.0563875E7|301|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14796357
+15c99887-6d2d-4e27-bec0-e837d93661e7|Oppo Điện thoại A Series 2022|Điện thoại|4824739.0|308|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14013032
+b978d3fb-237c-4554-ba93-e7c0739405c6|Sony Điện thoại S Series 2023|Điện thoại|4.1067992E7|370|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-14143057
+e6a67f11-9149-425b-b588-59f3fd2ad908|HP Tablet S Series 2023|Tablet|1.9562607E7|369|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-11641242
+ab8d8444-fde9-438f-96a6-06b250925ebb|Lenovo Đồng hồ thông minh Mini 2024|Đồng hồ thông minh|3.3779772E7|466|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12628546
+b5bd3543-48a9-4baa-88e5-5a6e9e68116b|Apple Tai nghe Pro Max 2022|Tai nghe|8851962.0|150|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12763455
+ba4ffa09-595f-4761-9dc3-b8523704dd86|Xiaomi Tablet Pro Max 2022|Tablet|4475903.0|468|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10606893
+6027636c-13d7-45a3-8ce8-2d3f981b846a|Dell Đồng hồ thông minh A Series 2023|Đồng hồ thông minh|1.7570143E7|279|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-11069519
+5ac88973-78bd-4528-ad27-b5a028da6a1a|Lenovo Phụ kiện Edge 2020|Phụ kiện|9361886.0|77|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15199049
+45a05e11-b49b-423c-8449-b0562f74d933|Dell Tai nghe S Series 2022|Tai nghe|4.2534441E7|123|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-14870120
+4da729e2-e57c-4837-9066-a2ccd24ad9f4|Dell Điện thoại Standard 2021|Điện thoại|7932789.0|408|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-14210910
+a0274e40-87ee-43f4-9788-e29ef48f110d|Lenovo Laptop Plus 2023|Laptop|4.0934844E7|184|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11980138
+95149a3a-dea0-45e2-942f-2fba3a1b8b90|Samsung Đồng hồ thông minh S Series 2023|Đồng hồ thông minh|5219321.0|495|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13414541
+cfe51cea-63ee-4ff6-b32d-e7130fc73c5e|Oppo Tablet A Series 2021|Tablet|4.5917338E7|69|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11253607
+3b6c01eb-75dd-484d-9e5f-892fd23b4bf9|Apple Điện thoại S Series 2023|Điện thoại|2.7039883E7|162|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-13999962
+7e0f7d66-095b-4f8b-9776-1e8de40740c8|Asus Tai nghe Plus 2024|Tai nghe|4.8470922E7|463|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-15446880
+13e10e70-781d-461a-83ce-754f15ebf236|Lenovo Phụ kiện S Series 2020|Phụ kiện|3.1246896E7|77|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14601264
+61f0138f-165f-4eed-92b4-79e93a284ecc|Oppo Điện thoại Edge 2020|Điện thoại|4.272374E7|473|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12365921
+a8476315-c240-49e5-867e-51179a3e357f|Oppo Phụ kiện Note 2021|Phụ kiện|8422118.0|144|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13160249
+261b9290-083b-4507-8b79-4ad049795cb2|Xiaomi Phụ kiện Standard 2021|Phụ kiện|1.2249936E7|303|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11512689
+b0cae685-76b9-4a6d-8f32-d94df6b2a73d|Apple Laptop Plus 2020|Laptop|3.9965784E7|388|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-12636473
+fd23f0de-3abd-49c7-8834-63737f3d3622|HP Tai nghe Edge 2021|Tai nghe|2.9677468E7|93|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-13420595
+ca8b3180-d278-409d-b073-e37efc3e2857|Xiaomi Điện thoại A Series 2023|Điện thoại|4.7985978E7|228|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12101161
+ea506dd2-5bfb-4dd3-bfc8-c635c5f25163|HP Tablet A Series 2022|Tablet|2.2133269E7|418|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-10269042
+e0b66e82-125a-4256-b4bb-9f3ce0a68003|Xiaomi Tai nghe Pro Max 2022|Tai nghe|3.2091192E7|57|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10739807
+da3d5b68-e777-45c9-89fd-57578942dbe3|Oppo Điện thoại Pro Max 2020|Điện thoại|9193709.0|366|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14400910
+292e9b43-df3e-4afb-b75c-775df2447a16|Lenovo Điện thoại Edge 2022|Điện thoại|6964687.0|270|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10986391
+bdf1287a-c777-4405-a8f9-115c71d6a146|Samsung Điện thoại A Series 2024|Điện thoại|3.9897827E7|462|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11781683
+59a06a25-a46f-424b-8373-39683796c72a|Xiaomi Đồng hồ thông minh Standard 2023|Đồng hồ thông minh|2.7630983E7|378|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15445110
+c7c76712-d0f9-4b66-b8a0-460e12da1277|Xiaomi Laptop Lite 2023|Laptop|3.8746178E7|197|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12495973
+d1c5d092-5d6a-4472-beb8-98bbf09b163f|Oppo Điện thoại A Series 2023|Điện thoại|2.1032832E7|444|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11056527
+15aa9ed6-f07f-408b-8cc4-a23fdded8bae|Lenovo Laptop Edge 2020|Laptop|4.1137608E7|273|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11594568
+87400f35-3d80-4ea7-90b3-72ff250a5da5|Apple Tablet Note 2022|Tablet|3.3560531E7|29|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-14795325
+de4f3539-bc73-4188-8da4-0cc1446816c2|Huawei Điện thoại A Series 2021|Điện thoại|2.0014465E7|10|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13546297
+b200fa5a-524a-493f-98f2-478e47d3e240|Asus Điện thoại Pro Max 2021|Điện thoại|1920722.0|209|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-13753670
+93d23647-dcab-4892-9a9f-77db0bc1b028|HP Laptop Plus 2021|Laptop|1.6451219E7|493|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-15328610
+c93cd404-95ad-459c-9cd9-ba2042fa1074|Sony Phụ kiện A Series 2021|Phụ kiện|2.2753662E7|236|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-12427353
+d8ddec29-f111-44a4-8324-a62a1cec1c01|Dell Điện thoại A Series 2022|Điện thoại|1.3383757E7|67|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-10869361
+7e2add38-709d-4324-bd2b-fcba893be5f3|Samsung Tablet S Series 2020|Tablet|4.2805159E7|133|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14459017
+ee1d97da-3da3-4a9f-8e54-4bef2a448498|Sony Laptop Plus 2022|Laptop|4344688.0|63|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-14526795
+7b3adb94-f53d-4a46-972d-a5ccab515de6|Huawei Laptop Pro Max 2022|Laptop|1.872556E7|30|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12498831
+cc162336-10dd-4220-9f66-c0e32f6b3779|Asus Laptop Edge 2023|Laptop|2.7670517E7|10|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-15129914
+5e408516-37aa-407c-8b53-11d393978287|Dell Laptop Plus 2021|Laptop|8182874.0|129|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-13821226
+4df3acf5-dc2e-4b05-8b65-3c2c20295f50|Huawei Đồng hồ thông minh Note 2021|Đồng hồ thông minh|3.6777721E7|101|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12896395
+c4964f2f-8fcd-4d47-a1de-2185714dfc35|Sony Laptop Standard 2021|Laptop|2.2804396E7|391|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-10273626
+2f4f7c71-fa66-40d3-b9c0-9645bd8dd385|Lenovo Đồng hồ thông minh Note 2024|Đồng hồ thông minh|1.1810381E7|111|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13886076
+06f5db0b-9f02-443a-82dd-1cdac8efd813|Oppo Tablet Edge 2021|Tablet|4285605.0|96|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11381831
+7f3d2822-ce07-42b6-b41b-51e22e08f11d|Apple Điện thoại Note 2020|Điện thoại|2.2464164E7|126|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-11779166
+50b2d1db-8868-451f-83bf-ad73a16d459e|Asus Laptop S Series 2022|Laptop|2.0162383E7|114|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-14869109
+1d239e65-cbc9-4a3d-8333-7d2e7ec323ef|Huawei Đồng hồ thông minh Lite 2022|Đồng hồ thông minh|3.8237537E7|197|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11836527
+66f75381-09fd-4399-89b4-162a1e1ae155|Lenovo Phụ kiện Edge 2024|Phụ kiện|4.164356E7|363|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12955947
+e8a3cab0-0344-4267-8fdf-825badc86c6b|Oppo Đồng hồ thông minh Edge 2024|Đồng hồ thông minh|1.6806917E7|367|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10670197
+161a28f0-3b8f-460c-b7e0-784e38ba0c27|Samsung Tablet Note 2024|Tablet|3.3224991E7|168|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14341982
+0dcb1c4d-567c-4825-91e7-7da16ec93dce|Samsung Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|3.8502138E7|424|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13879643
+4719e223-cc3f-4861-b354-faa95827d769|HP Phụ kiện A Series 2021|Phụ kiện|2.7338352E7|165|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11133769
+873cab91-35e0-48c0-8f86-ed7cd7aee6cc|Dell Điện thoại Mini 2020|Điện thoại|1.3404999E7|98|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-13672573
+f5b5d189-2d15-4deb-bfaf-1beba2dec84b|HP Tai nghe A Series 2020|Tai nghe|3.0305894E7|383|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-13817181
+b5c7be4d-5bd4-41a2-93d4-94b0df10779e|Apple Phụ kiện Ultra 2023|Phụ kiện|4.4839321E7|209|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11909222
+b8c251b2-2bf0-4956-b9f5-ab51161d989f|Lenovo Tablet Edge 2023|Tablet|8048627.0|190|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14594383
+7fc7ee5d-00c1-4c6c-bd6e-f05c2404b07c|Huawei Tablet Plus 2022|Tablet|3.9078194E7|361|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13818985
+ad646fb2-61d4-4307-85ea-ef52ca893448|Oppo Laptop Lite 2022|Laptop|1.243903E7|376|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13279810
+da85b3bd-4980-46e1-8df7-fde9fcb0b1f6|Dell Tablet Plus 2020|Tablet|4.5661881E7|18|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-14073188
+67b4eb7d-7d88-4f36-a927-92b9ad761a49|Asus Tai nghe Lite 2023|Tai nghe|1.2083281E7|356|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-12041088
+679c6588-f22a-4c2b-9434-078c49c22764|Samsung Tai nghe Edge 2024|Tai nghe|6061478.0|460|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11121711
+9c7d1c7f-a311-4875-8618-8699326365a9|Lenovo Điện thoại S Series 2022|Điện thoại|1.5511085E7|440|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13217406
+cad26ad8-9a78-4fd1-9850-52ad9118de84|HP Đồng hồ thông minh Note 2021|Đồng hồ thông minh|4.7390608E7|160|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-13623675
+583c0790-d22f-4206-8a36-9dc8beb0ab39|Asus Tai nghe Plus 2021|Tai nghe|2.6190036E7|369|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-11984724
+4583eb3f-ea40-4d00-83ed-71f6f7ed7a14|Sony Tai nghe Note 2023|Tai nghe|1.9588829E7|313|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-13027652
+e2b291bd-c025-49d7-8339-ecadaa5f7b43|Sony Tai nghe A Series 2023|Tai nghe|3173425.0|273|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14923889
+edc94e91-da9c-4369-ab54-77667a7abdcb|Apple Đồng hồ thông minh Note 2023|Đồng hồ thông minh|4.9431373E7|366|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14074716
+c52cc61d-5cf7-46ee-8802-5e6a2ad3d321|Sony Tablet Standard 2024|Tablet|1.8449071E7|231|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-11519813
+af40a481-a12e-4531-ad56-56ea82fe0d7b|Lenovo Tai nghe Plus 2021|Tai nghe|3.12451E7|103|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10939230
+d4c96325-cd36-4f41-ac1b-fd15af2c7064|Xiaomi Đồng hồ thông minh Plus 2022|Đồng hồ thông minh|1.7930163E7|66|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11184198
+2751fc23-8712-46dd-82bf-c2d683ec21b3|HP Tablet Lite 2023|Tablet|4.3397722E7|475|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-10603142
+a876165c-bab2-4d0c-8414-d356416c3b5c|Asus Laptop Pro Max 2020|Laptop|4.7416768E7|332|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11520594
+eac6ded2-a0ce-4e4b-8b74-5cbccadbfd6a|Samsung Tablet Ultra 2021|Tablet|8272129.0|38|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12888119
+d37263be-df95-4095-98c1-e5ede120df05|Sony Laptop Standard 2020|Laptop|2.0058607E7|421|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-13676889
+4c55d19d-8623-40bc-bf41-78e8823cf26c|Oppo Phụ kiện Lite 2020|Phụ kiện|3.972425E7|36|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10803864
+021cba22-f653-46f7-8312-01b73af1855a|Sony Tablet Standard 2022|Tablet|1.3796049E7|427|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-15125316
+e358d424-35a5-4e73-858c-468a5670919c|Oppo Tablet Pro Max 2020|Tablet|2.6171748E7|205|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14924069
+56b3255d-d64a-4a7b-80d1-b91157f2fd19|HP Tai nghe Standard 2023|Tai nghe|7355049.0|382|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-11451482
+f7938eb5-0bab-4891-8983-920d5a22e495|Huawei Đồng hồ thông minh Mini 2022|Đồng hồ thông minh|1.0082603E7|276|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10790462
+80b6aec5-fb40-475f-b959-27fe8e0fb59d|Huawei Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|4.8579807E7|208|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12170540
+5d2a940c-cadf-4fc8-9eb3-c3b5aedd6898|HP Laptop S Series 2024|Laptop|1.0567559E7|83|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-10476682
+0faa3a0b-de92-4af5-8b8d-b32a6d61f0bf|Huawei Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|8263204.0|214|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15050122
+c90928fc-6615-4060-b687-5443fd3fc732|Xiaomi Tablet Pro Max 2023|Tablet|4.1645682E7|485|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11721337
+992e19e2-2483-4b54-b5fb-182c1ca0f56d|Xiaomi Phụ kiện Lite 2023|Phụ kiện|2.7822052E7|267|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12635476
+679fb8b9-4c43-41d6-b705-58323174f799|Asus Laptop Mini 2020|Laptop|3.0103544E7|392|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11717710
+fa16dd2e-7414-46e7-8243-787b23a7c71b|Lenovo Laptop Standard 2021|Laptop|2.9534519E7|405|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11329426
+b6f0fb53-62ab-4745-9ccb-dc6414bcf855|Sony Laptop Pro Max 2024|Laptop|8539558.0|229|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-15393668
+a1e6a109-cffb-4ff1-a868-d4e9db518d97|Apple Điện thoại Pro Max 2024|Điện thoại|3.8074747E7|273|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-11977789
+65f9349c-d003-4784-9135-b5379894d961|Huawei Laptop Edge 2021|Laptop|3.0323741E7|340|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11776066
+0208638e-a826-49a3-86e0-781444121379|Asus Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|1.847417E7|283|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-14851950
+72bdf3a1-eb00-4b21-83f5-67dfed04d69e|Lenovo Phụ kiện S Series 2021|Phụ kiện|1441095.0|380|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12305269
+d67a87a7-ab57-4214-95a9-ef530eea1213|Apple Điện thoại Mini 2020|Điện thoại|3.2292335E7|478|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-13689393
+f003c36a-0de5-4680-bc54-0a2eb17a27b8|Dell Phụ kiện Lite 2023|Phụ kiện|5067508.0|14|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-12036415
+b7efb5cb-2a8e-4f4e-b5b1-b7cd4751a338|Xiaomi Laptop Lite 2021|Laptop|4.0087085E7|247|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10472821
+dc4b5649-b936-43bb-8c28-4c3772f70b76|Apple Phụ kiện A Series 2021|Phụ kiện|1.8509766E7|148|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11263368
+bf547684-1aef-463f-8af3-6448ebc69d24|Asus Phụ kiện Mini 2022|Phụ kiện|3.9093288E7|457|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-13547328
+59cfa762-e8a2-4dd2-bf61-f3c2eab290fe|Sony Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|3.3259471E7|158|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-13607835
+1fd824d5-0473-4413-baca-c2e9b3542870|Asus Laptop Mini 2020|Laptop|3.9710614E7|439|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-15194729
+d8942267-2521-4d62-b71d-e14ab94d4a52|Apple Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|4.6501253E7|10|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-10934574
+c73acf27-d37f-45dc-85e0-d0b6a9c013c6|Lenovo Đồng hồ thông minh Mini 2023|Đồng hồ thông minh|4959094.0|214|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12898346
+ed432da9-94a5-46cb-b822-5264de09a0b8|Asus Đồng hồ thông minh Pro Max 2024|Đồng hồ thông minh|1.3619731E7|403|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-10870865
+048fe707-dfb6-4386-aa08-568716363e72|Samsung Tai nghe Ultra 2023|Tai nghe|2738234.0|123|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-15186327
+6ed7cbfb-be05-43cb-9934-c1ffc4d0e8c6|Huawei Đồng hồ thông minh S Series 2022|Đồng hồ thông minh|4.9339736E7|434|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15324824
+0c6df44f-6e58-49af-9647-e4c36a05a5f1|Sony Phụ kiện Mini 2021|Phụ kiện|5364231.0|70|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13418106
+3af883a2-48b8-48ba-8d90-fd0472aff590|HP Điện thoại Pro Max 2023|Điện thoại|8443637.0|288|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-14988387
+7286feba-8512-4589-98c2-1d0bd49f8c9d|HP Phụ kiện Plus 2021|Phụ kiện|2.9612193E7|473|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-14073134
+59096dfa-d86e-4083-abb2-6e57cb1fcecd|Sony Tai nghe A Series 2024|Tai nghe|4.5846598E7|452|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14801040
+46775f4c-8fa4-4b89-ba5a-6cfb34762c50|Oppo Laptop Lite 2021|Laptop|3.7773357E7|90|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10994559
+ae52cf9a-7589-40ee-b26f-ff0a17e5afcd|Lenovo Tablet Note 2022|Tablet|1.6046716E7|126|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15122498
+8c9270f5-36e0-423f-8522-eca526849e6d|Asus Phụ kiện Mini 2023|Phụ kiện|7133783.0|137|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-13215575
+9445d2d3-1ff4-4330-83f9-da6f210cea1b|Apple Laptop Mini 2023|Laptop|4.7013449E7|352|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-11460390
+db40fc69-f3f7-4f5f-b022-5c197b250e90|Apple Điện thoại Standard 2024|Điện thoại|1.7751578E7|223|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-12104743
+bc4b83d1-8c6a-4dc1-8483-f17f66233e02|Dell Phụ kiện Plus 2022|Phụ kiện|9326402.0|237|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-13345935
+56033ec1-11ac-4e22-822a-891e708cde7d|Huawei Tai nghe A Series 2023|Tai nghe|4.031607E7|295|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15067477
+bb182166-8822-4e79-afb0-37738474f04b|Xiaomi Laptop Plus 2024|Laptop|3198347.0|125|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14198843
+acc8e347-f647-48c6-8fb2-310fa4057e7a|Samsung Phụ kiện Ultra 2022|Phụ kiện|3.9954723E7|151|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13278580
+f62cdecf-4db8-4ff4-a55a-146bf8089842|Xiaomi Điện thoại Pro Max 2023|Điện thoại|4.3758195E7|213|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11186774
+0a3bc178-84ab-4d3a-bd2f-3e963fb3bed0|Asus Tai nghe Standard 2024|Tai nghe|2.6145181E7|35|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-10464875
+2db8629e-04e6-4724-872a-4dcedbb3bc2b|Apple Điện thoại A Series 2022|Điện thoại|2.8366823E7|371|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-15113355
+a99e3715-0fe1-4d67-be2b-191c96cd5e84|Samsung Tablet Pro Max 2024|Tablet|5144193.0|490|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11056792
+24e1ffe3-eebb-46e8-9e18-5e9894cd52aa|Dell Phụ kiện Mini 2023|Phụ kiện|3.5980172E7|119|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-12179260
+f71c1088-06dc-43d9-b7e2-f470c1d6bc5c|Oppo Điện thoại Plus 2021|Điện thoại|1.702382E7|39|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14465344
+d7456854-56e4-467c-b78a-d51175a0a6f7|Samsung Tablet Plus 2021|Tablet|1.0522095E7|479|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11580050
+8ca536c8-44e7-4998-80f5-1b55b1757bbe|Samsung Tablet Lite 2024|Tablet|4.154862E7|353|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11977558
+01a9aa38-a579-4d9f-9e67-8636c026d919|HP Phụ kiện Note 2021|Phụ kiện|2.5508126E7|189|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-14215000
+f78ba91c-c911-4932-a56a-d121cda8d271|Xiaomi Laptop Note 2020|Laptop|3.2174278E7|207|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14393696
+3de09475-aae2-46f5-a68e-fd8ddea23c89|Lenovo Laptop Standard 2022|Laptop|1.9871648E7|440|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15056765
+73722827-7b64-48d3-a8ee-dcd5bfc51e56|Apple Tablet Mini 2024|Tablet|1.3242111E7|405|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-10736724
+6b441fa7-67ff-48d2-8950-6ffba5391fc2|Lenovo Tai nghe Edge 2020|Tai nghe|3.4449545E7|88|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11840328
+63f00739-af84-495e-8c41-0a0b9199ffca|Dell Đồng hồ thông minh Note 2023|Đồng hồ thông minh|6048095.0|173|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-13811078
+166e119e-ac5a-4177-8d99-e6f5c650f8a9|Samsung Tablet Lite 2023|Tablet|3.852824E7|350|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12627352
+b68536c6-730c-4f59-bbb9-d0937c2f42a3|Huawei Laptop Standard 2023|Laptop|2821111.0|193|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13691696
+b03c2bc9-8c40-4a1f-8083-a32a185eefb4|Xiaomi Phụ kiện A Series 2020|Phụ kiện|6904195.0|316|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13936504
+84c87b80-92ba-4fe1-80da-95af37ee36df|Sony Tai nghe S Series 2020|Tai nghe|3.1662316E7|444|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14865705
+63ce882c-6e75-4924-9551-6e9359b2d7f7|Apple Laptop Plus 2024|Laptop|4.0279169E7|214|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-13154701
+f21a0d72-15ea-4e0c-9537-72e703c66290|Xiaomi Đồng hồ thông minh Note 2022|Đồng hồ thông minh|3.8626485E7|145|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14531387
+5b5f597d-a309-4240-91aa-221c5b245b00|Xiaomi Điện thoại Ultra 2023|Điện thoại|3234511.0|58|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14141228
+7da61381-413f-45e3-b68c-17a7f491771a|Apple Điện thoại Lite 2021|Điện thoại|2.4227718E7|472|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-12443981
+a83687fb-a4c1-4764-8c7d-99281629f2c3|Oppo Laptop Ultra 2021|Laptop|3.54435E7|479|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15387734
+c16e0843-f52e-494d-ac91-a0aeb2ac9455|Samsung Laptop A Series 2024|Laptop|3.4535768E7|88|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11459713
+10d88745-2ae9-454a-b50b-42eafc4cbba5|Oppo Đồng hồ thông minh Mini 2021|Đồng hồ thông minh|2.0436615E7|401|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12566107
+988697af-906d-44d0-8274-8b02ef3fb6df|Lenovo Tai nghe Standard 2021|Tai nghe|4676360.0|354|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12184145
+c97a21e7-e3c4-49ec-9811-b04aa8dcc7b3|Xiaomi Tai nghe Edge 2024|Tai nghe|2029688.0|320|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15324819
+14caef04-0a2a-4635-a7e4-f4b6a6b31c38|Oppo Tai nghe Mini 2020|Tai nghe|3.7044068E7|362|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13749643
+50d11899-b4c4-45a8-b013-37b1f052dbb2|Lenovo Tai nghe Pro Max 2022|Tai nghe|2998291.0|60|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14278741
+06a6a169-6f59-4da9-a837-c9fabebf7a66|Samsung Laptop Edge 2024|Laptop|3.8797901E7|141|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-15187826
+8516e44a-8e97-4405-9ff5-601754607f8d|Apple Tai nghe Pro Max 2022|Tai nghe|4.9355744E7|64|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12245340
+7d1a2b3e-724a-42b2-95c8-589f9bf60ade|Lenovo Đồng hồ thông minh Edge 2021|Đồng hồ thông minh|3.5962558E7|13|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11648604
+2edc58ef-88fb-4ab1-84dc-633ee064aa6b|Xiaomi Điện thoại Edge 2021|Điện thoại|7134831.0|10|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15048858
+5dd27d93-2179-4120-bab9-7ebe5029f957|Huawei Điện thoại Ultra 2021|Điện thoại|2.1899059E7|171|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11590488
+c524414f-04a9-4562-bd31-1eb918f40d78|Samsung Điện thoại Lite 2024|Điện thoại|3.0714897E7|455|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12570519
+038a4bf9-aacc-45d4-aadc-d1dda365fef1|Oppo Tablet Lite 2024|Tablet|2.2387886E7|12|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13230737
+dad1d3b7-f535-4580-ae81-7fd0d1266fcc|Asus Laptop Lite 2020|Laptop|2.5520618E7|412|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-13682567
+ae9e8441-3e2e-4802-8060-b258b9dc9b8e|Sony Tablet S Series 2021|Tablet|4058652.0|421|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-12241227
+aa96a28e-00f6-4137-9c37-61e7d1a32045|Xiaomi Đồng hồ thông minh Mini 2020|Đồng hồ thông minh|4.0279466E7|462|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12562768
+9cec967a-1736-4e1c-ad03-48fa781d55ef|Lenovo Điện thoại S Series 2021|Điện thoại|4.7601308E7|47|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12758629
+e9eb1902-80ed-4c6f-9e70-67af4c93ed62|Sony Phụ kiện Lite 2022|Phụ kiện|2.492285E7|21|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-12371830
+5cecff8e-3159-47ac-b185-e8b561c55c6e|Asus Phụ kiện Plus 2024|Phụ kiện|2.941476E7|254|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-12374624
+ca36c57a-557a-4e25-97cd-4ba1dcd3d781|Sony Đồng hồ thông minh Edge 2023|Đồng hồ thông minh|3.9921019E7|270|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-12506256
+e3c783f9-40be-4a1f-8af4-c9c92070aa8b|Huawei Laptop S Series 2022|Laptop|2.385058E7|226|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12964459
+64affcea-708f-4603-a541-3aa2133ffda2|HP Phụ kiện Note 2022|Phụ kiện|4.8409546E7|481|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-14601271
+3b0d53f6-15df-481d-b1d3-aa658858fd92|Dell Laptop Ultra 2024|Laptop|3.7539068E7|272|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-11776897
+1d966279-6a34-4ab1-b810-d73d588d5d54|Apple Đồng hồ thông minh Plus 2021|Đồng hồ thông minh|3.4476487E7|45|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-13805143
+a38f829a-1349-4c1d-88a5-13838394bb76|Dell Phụ kiện Mini 2021|Phụ kiện|1.017882E7|308|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-12571173
+ba2280c7-af5f-4ccb-bb5d-2eda476e73a0|Asus Tablet A Series 2020|Tablet|1.994186E7|313|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-14795887
+ebfd4c48-7e35-4dd9-ad7b-1c43a3e7c17f|Apple Điện thoại Pro Max 2024|Điện thoại|3.1588607E7|185|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-10271556
+b8aae7c6-0d4a-4b19-badd-3c380b4b6642|Samsung Laptop S Series 2022|Laptop|4.2899523E7|308|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11331937
+cb984d26-c75d-4762-8b59-23583da35fb1|Asus Điện thoại Standard 2024|Điện thoại|7251897.0|266|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-12900725
+c42fe524-7756-4ade-b860-70766a4d3df8|Sony Điện thoại Lite 2020|Điện thoại|7883464.0|115|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-10467988
+cfd6ad57-341f-4219-b5c1-a591cae9ebf9|Asus Phụ kiện Lite 2020|Phụ kiện|4.0742424E7|103|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-10469007
+f9dc2ad5-4fc1-4c21-969b-09ba0cb3abf2|Sony Điện thoại Standard 2023|Điện thoại|3979541.0|337|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-14857098
+b08b4b8c-48a5-4535-9ab6-63c7d76152fb|Oppo Điện thoại Pro Max 2021|Điện thoại|3.3062246E7|465|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11263045
+098438c6-8789-4abe-bee7-500851df4038|Sony Đồng hồ thông minh S Series 2022|Đồng hồ thông minh|1.3718108E7|369|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-15389816
+0035e277-2609-44d3-ab06-abb887813ce9|Apple Laptop Note 2021|Laptop|3.4748338E7|106|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-12310915
+ed73fe94-95e4-4805-a734-511d5fe54137|HP Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|1.0684374E7|250|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-10858849
+b7e268b7-bad6-42d9-820c-b5ce017594fc|Apple Tai nghe A Series 2022|Tai nghe|4.1405789E7|240|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-10592088
+d1be37e9-ba75-4f2d-8100-bb9349935ac1|Samsung Phụ kiện Plus 2022|Phụ kiện|2.2616602E7|479|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10536269
+efdef999-a7d9-44e0-8ee5-7d6803eaa5a3|Lenovo Điện thoại Mini 2023|Điện thoại|2.1009657E7|372|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11199825
+af29c14b-2766-4916-8cde-3053dc65b288|Xiaomi Tablet Ultra 2022|Tablet|3.4307729E7|233|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13492636
+239309e1-a475-446d-b500-0690df566574|Xiaomi Tai nghe S Series 2022|Tai nghe|3.403682E7|102|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10854998
+8bfac24f-7532-4d0d-bc22-30b5b69c995b|Samsung Phụ kiện Ultra 2023|Phụ kiện|8055694.0|373|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12245837
+45f63803-35c7-4a98-a0b1-5268c4ac8eb7|Apple Phụ kiện Note 2020|Phụ kiện|2.8579713E7|439|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-15194966
+1a3bb252-a799-47ca-9350-89628f25b7d4|Sony Tai nghe Lite 2021|Tai nghe|1.8337333E7|444|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-15185475
+f79383a1-cd0b-41e0-9946-7166ba7e8e68|Lenovo Điện thoại Edge 2020|Điện thoại|4.4441561E7|137|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10934929
+304060b4-1d66-4028-adb7-d33a8a688771|Apple Điện thoại Lite 2022|Điện thoại|3.2179826E7|115|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-14007675
+adefaf42-0079-46b9-8cd9-e69afa27f43d|Huawei Điện thoại Ultra 2021|Điện thoại|4.2026E7|175|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13477240
+2131114a-5bb8-4661-9f37-9a679ad2530a|Apple Tai nghe Lite 2024|Tai nghe|1.6317272E7|254|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-10997070
+f1844989-de16-43f5-99f2-6eb56716e359|HP Tai nghe A Series 2024|Tai nghe|2.0283491E7|481|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-13345163
+3d0157f7-8287-4032-86c1-fad1b61cfe85|Asus Laptop Mini 2024|Laptop|1.2806836E7|262|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-14340989
+f2f977ce-7981-4aa5-b487-ac707ee5f6ea|Huawei Tablet A Series 2023|Tablet|1.4752564E7|325|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14528358
+cfd97de8-8358-488b-be20-927ab545af6c|Dell Phụ kiện Ultra 2023|Phụ kiện|4.9316872E7|206|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-14407493
+6be4fcc9-bda9-468d-8e9c-b0bc9b79923f|Lenovo Tai nghe Ultra 2020|Tai nghe|3972248.0|57|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12706367
+bd9e01bb-8b40-43ea-b691-3377b2af9163|Apple Tai nghe S Series 2021|Tai nghe|1854703.0|404|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12955203
+6ed25c56-7f36-465c-be0a-f1a53be8a68b|Oppo Phụ kiện Note 2021|Phụ kiện|3.3291783E7|261|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14991202
+7140b6bc-54f8-4115-a819-4d66bb4f9e1f|Samsung Phụ kiện Edge 2020|Phụ kiện|1.8735001E7|424|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14401854
+56d2d2c5-b483-4d86-bae3-12700b16dad3|Sony Tai nghe Lite 2024|Tai nghe|4.7050982E7|71|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-13814072
+46a088bb-c183-419f-bb7d-a637d16441fd|Lenovo Phụ kiện Pro Max 2022|Phụ kiện|2.0789159E7|345|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13559941
+95fca3e5-a1ab-48c1-8af0-a70c902b7d5c|Oppo Tai nghe Plus 2020|Tai nghe|1.6512889E7|271|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13350014
+35b3acf5-9610-4175-b285-96f5c29ad5c8|Lenovo Tai nghe Standard 2020|Tai nghe|2.7762987E7|410|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13554768
+f1e2c49b-4506-497f-8b6f-589ddf686f1b|Lenovo Đồng hồ thông minh Lite 2020|Đồng hồ thông minh|3.1348466E7|178|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11443284
+5b180a7a-a2b9-4823-a680-32fbb2deae7c|Huawei Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|2.9604167E7|295|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15250735
+441bb9f2-6501-4cb4-a72b-1abd53da3f2d|Huawei Tablet A Series 2022|Tablet|2.1585113E7|186|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14072200
+11972b87-130b-4a43-83e9-1965513c018a|Oppo Điện thoại Ultra 2022|Điện thoại|4.2992807E7|266|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10871333
+098d7ef9-004c-4715-a24d-499933b64b0c|HP Tai nghe Standard 2024|Tai nghe|3.9009439E7|500|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-10541382
+9af70a18-fe08-4d60-a7a6-5f096bbdd6e8|Asus Phụ kiện Note 2020|Phụ kiện|3.758627E7|374|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-10338888
+7ad893cb-492c-45df-a3f1-6871e7f7c337|Oppo Tai nghe Pro Max 2024|Tai nghe|2.1298348E7|152|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14591080
+3c1ccbb5-8788-43ce-8a28-7536d3c3bae3|Asus Tai nghe Edge 2023|Tai nghe|2.8910546E7|463|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-12105017
+4f893779-d776-4cea-beec-1da7ed7b0750|Apple Phụ kiện Ultra 2020|Phụ kiện|3.7995371E7|365|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11594539
+a0eba6e1-d7c3-4e0e-bf9f-563e9d7572d7|Xiaomi Tablet Mini 2024|Tablet|1740493.0|450|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10342453
+ac91b572-77d8-4080-9301-6eb21ba4b31b|Samsung Phụ kiện Plus 2022|Phụ kiện|8714879.0|250|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13279815
+65ac7a1e-6d0f-4a10-84d4-e947baff5a99|Apple Điện thoại S Series 2021|Điện thoại|1.7478467E7|166|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-11524721
+0ae68f86-998b-423e-817e-5e032abdf9e4|Xiaomi Phụ kiện Mini 2024|Phụ kiện|3.1107168E7|10|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15311441
+27454459-c2a3-4fce-8f5b-8948f0dbfa58|Huawei Tai nghe Mini 2020|Tai nghe|1.795748E7|89|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13739927
+41975293-a98e-4b01-adfc-04c4d7f798bd|HP Đồng hồ thông minh Plus 2024|Đồng hồ thông minh|2.9290576E7|392|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-12756026
+825652ff-da6a-4b10-ac3f-6a36b4c09832|Xiaomi Laptop Standard 2021|Laptop|2.7675285E7|73|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14926941
+ddb18ca4-d187-47d7-ae8a-242d39cc6766|Lenovo Đồng hồ thông minh Ultra 2023|Đồng hồ thông minh|3.2010647E7|237|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15460495
+3c20fc4d-9b17-4879-865e-d33fefce2011|Samsung Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|4.0826253E7|454|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10275662
+59983cbd-6585-4d7b-bdbf-3673498b84a2|Apple Tai nghe Note 2020|Tai nghe|2.2572947E7|405|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-11135055
+7c54279d-39ea-4377-af5c-46b4ac691d06|Lenovo Tai nghe Lite 2022|Tai nghe|3983393.0|364|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10853450
+a4516f21-01eb-4324-a327-451c7b77bb76|HP Laptop Plus 2020|Laptop|7403764.0|446|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-14400827
+f32aa824-8d90-4d39-a3fe-63c404452797|Dell Điện thoại Mini 2020|Điện thoại|4.8165755E7|271|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-10868071
+32b4487b-3d8d-4a57-874a-42703924993f|HP Tablet S Series 2024|Tablet|2.4285453E7|51|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12968053
+dcbf7ea0-3e04-4a11-b96b-ae1c5ee1bac8|Dell Đồng hồ thông minh Note 2024|Đồng hồ thông minh|3.8510206E7|242|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-14591324
+fc2a4561-3dc9-42a9-a554-e67ec600092d|Sony Tai nghe Edge 2024|Tai nghe|7078350.0|40|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-12902281
+b21addea-8fa4-43d3-912a-9ed2594fe3df|Apple Phụ kiện Note 2024|Phụ kiện|1.3337298E7|332|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11640108
+5ce9f787-e402-44b5-bad0-52f70fd9669b|Samsung Laptop Mini 2022|Laptop|4.6654422E7|83|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11001668
+fc312eda-588d-4d55-a94d-efcdb6d1c29c|Lenovo Tablet A Series 2020|Tablet|4.0690182E7|317|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14403459
+396a15e4-96ff-4e4b-b2c4-752fe8300af8|Huawei Tablet Mini 2023|Tablet|4.1610349E7|468|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12708717
+83d0a6e8-59ed-4f2b-be6b-80cdf8586508|Oppo Tai nghe A Series 2022|Tai nghe|1.3285655E7|32|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14211386
+2d019985-7bda-44e8-9d89-afe0468ef1ec|Samsung Tai nghe Pro Max 2021|Tai nghe|3815895.0|197|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10859870
+eca089ab-bdb0-4456-967f-c4fcb6a3dea5|HP Tablet A Series 2022|Tablet|2.7620373E7|499|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-13686937
+e8fa8a96-a14d-4cfb-b32b-c96e72026c60|Huawei Tai nghe S Series 2023|Tai nghe|1.8273804E7|261|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14071625
+4e04f7a3-a6cd-4740-b7bb-fa40e3a74cc1|Oppo Laptop Plus 2024|Laptop|1.4098157E7|210|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13686661
+44b7dbf1-8c71-4779-8362-1d05629dea14|Huawei Phụ kiện S Series 2023|Phụ kiện|4.5624461E7|160|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15457334
+e158410f-4e76-47aa-9afb-c01207fc2a08|Dell Đồng hồ thông minh Standard 2024|Đồng hồ thông minh|2018762.0|221|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-14397323
+c613a607-1c62-4717-afa7-527ac398e1b6|Sony Phụ kiện Lite 2021|Phụ kiện|4.8931097E7|365|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-10334577
+a7ceb0c3-2075-4b3f-ac91-be40959e5e41|HP Tablet Lite 2022|Tablet|4.1162845E7|170|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-10861616
+2c715df8-6c9c-45e5-88bc-a2bd4958ef2f|Apple Đồng hồ thông minh Plus 2022|Đồng hồ thông minh|4.0053381E7|371|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-12248920
+d515d9d5-8a9a-4a2d-ba54-0f4344efbae4|Lenovo Tablet Pro Max 2021|Tablet|2.9913093E7|305|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12233015
+c3922465-65cd-4f55-8468-4b74eeb2bba2|Huawei Tablet Pro Max 2021|Tablet|3.4163569E7|435|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14864262
+f392648e-adcb-4ee5-b35c-65084c80b23e|Asus Tablet Edge 2021|Tablet|4.0266896E7|376|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-13620859
+63c9ac45-c8a7-44aa-93c8-3f4b0477f649|Sony Điện thoại Lite 2021|Điện thoại|3.0631135E7|270|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-11718237
+adb75728-a9d9-4bc9-9c98-75b77c36d800|HP Phụ kiện Note 2020|Phụ kiện|4800551.0|89|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11190907
+5298b320-e8b8-45fa-850a-38d8f7e83c84|Huawei Tablet Mini 2023|Tablet|2.4588262E7|88|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14986817
+ac7d298a-9e46-40f9-b719-639404aca4bb|Lenovo Tai nghe Pro Max 2024|Tai nghe|3.5408529E7|36|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13350452
+e6e039db-6a51-4708-a21a-8fe31c8746c7|Sony Laptop Pro Max 2021|Laptop|3.5566732E7|33|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-12496723
+2fd3bc7d-4ec2-4387-9d69-ca2fefd80443|Sony Điện thoại Note 2021|Điện thoại|2.9917654E7|209|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-11781956
+1bd91065-08de-4db9-acc9-7087bfd7bf07|Samsung Phụ kiện Ultra 2024|Phụ kiện|8380089.0|349|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14918446
+44c17e75-a3bb-4d89-b1a5-6e7655ef057b|Samsung Phụ kiện Ultra 2020|Phụ kiện|7907404.0|129|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13484113
+0f765d89-2c03-4ec1-ab6a-a3ab6b6b0e22|HP Tai nghe Note 2020|Tai nghe|4634576.0|256|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-13946246
+a69891af-e83f-426b-a02a-5091defc73ef|Apple Điện thoại A Series 2021|Điện thoại|4.4548983E7|11|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-10592854
+40a0d9ab-912a-4c2d-b98c-f67c29bd7c28|HP Tablet Standard 2020|Tablet|2.1320864E7|132|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-14463339
+6641bd69-1473-40e5-b5c5-3455a9ce26e9|Sony Tai nghe Mini 2023|Tai nghe|5552530.0|441|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-12824911
+471c0108-a48d-4c77-af15-7efbc3408707|Lenovo Laptop Pro Max 2024|Laptop|3.6233729E7|233|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11974477
+398f7459-080f-4666-9625-231d3b72e649|HP Điện thoại Mini 2020|Điện thoại|4.7819443E7|443|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-10674531
+9274712c-43e6-4eb0-b039-8439cfff3a1b|Huawei Đồng hồ thông minh Note 2024|Đồng hồ thông minh|3.641645E7|71|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10918987
+93a7bc7d-cac3-4bee-a301-58ef11b63398|Oppo Tai nghe Lite 2021|Tai nghe|3.0864339E7|177|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14010223
+94840d9d-e761-462c-acf9-d374ed5801b7|Lenovo Điện thoại A Series 2024|Điện thoại|4.869671E7|411|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12624505
+6eda9801-334f-4e83-915d-b5be5f6f08e2|Huawei Phụ kiện Edge 2021|Phụ kiện|1.8778867E7|27|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12503378
+c3e01963-f411-45b5-99c0-751404b34cda|Huawei Tai nghe Lite 2020|Tai nghe|4.6183606E7|146|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10733179
+7b048898-2287-4a89-b0e3-765ea72b5d48|Xiaomi Điện thoại A Series 2021|Điện thoại|1.5958883E7|428|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11463009
+9ff36cfd-f5da-4cfe-a476-9b387136d091|Apple Điện thoại Mini 2022|Điện thoại|2.6135322E7|130|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-10742632
+2b5c5b28-4e88-40e9-96db-c0c476973fc1|Dell Tablet Plus 2023|Tablet|3.6080612E7|140|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-13216569
+059ac8d3-e2c2-431e-b7b4-e87fb4676cc2|Huawei Tai nghe Mini 2021|Tai nghe|3.7950345E7|395|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14002742
+46ffda81-ab4d-42b7-8fe9-ab4046c97eda|Sony Laptop Mini 2021|Laptop|3.9019638E7|239|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-10533525
+6b3ffe30-af80-4e47-bf78-9166ec91542d|Sony Điện thoại Ultra 2024|Điện thoại|2431367.0|105|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-15127698
+25c3b377-27a4-4668-bcaa-b600223fc68b|Huawei Tai nghe A Series 2020|Tai nghe|3.9053301E7|399|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13680175
+76a88a7f-ccae-4fe0-aba3-eab0677b2e6f|Oppo Laptop Plus 2023|Laptop|7383670.0|274|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11775861
+dd111e67-aa62-4112-a8ba-f9f703800c03|Lenovo Đồng hồ thông minh A Series 2020|Đồng hồ thông minh|3.42145E7|238|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14397013
+34e24313-8295-425c-836d-e900631b36fb|Asus Phụ kiện Pro Max 2022|Phụ kiện|1.0362028E7|383|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-14999091
+9911a7a7-f99c-4d08-bd24-c8ac757cf1a5|Apple Tablet Edge 2023|Tablet|1.0277844E7|470|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-14337086
+62d3bc40-f9b3-46e5-811b-84701cce4f88|HP Tablet Ultra 2023|Tablet|4.1230124E7|151|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12701034
+15c9014c-5b33-44f7-99e9-e963ddf85aa2|Xiaomi Laptop Edge 2021|Laptop|2.4520679E7|390|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12633657
+ab85ff25-19ff-4ea1-82a4-7d7566cc5197|Lenovo Tai nghe Plus 2023|Tai nghe|4.7365368E7|182|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14475099
+01aa1674-d64b-4ee9-9bc4-719a0f6d9ed7|Asus Laptop A Series 2021|Laptop|4.0667509E7|12|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-10741550
+fdf2769e-d654-4ee9-8aad-e5b460bf9678|Samsung Tablet A Series 2021|Tablet|2.9097931E7|456|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10796379
+52fc4b5e-402b-4b69-8389-fb8fc1212fc6|Samsung Tai nghe Mini 2021|Tai nghe|2.8049176E7|196|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10602835
+6fae5160-9dad-4c43-aa80-7068841724b2|Xiaomi Đồng hồ thông minh Mini 2022|Đồng hồ thông minh|7238701.0|152|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11181705
+63450154-a540-4aa9-9267-97380ebfaf12|Huawei Tablet Plus 2020|Tablet|6730956.0|189|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10538835
+8634c6c9-d55e-4292-9e77-95fc8b9d08ce|Xiaomi Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|4.1246824E7|112|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15391642
+c9f37afa-9030-4d1f-bbbd-66fd46604fde|Apple Laptop Plus 2021|Laptop|1.6447991E7|461|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-14870662
+ae6dd1e0-a5c1-4809-aee6-2aba1d66fb89|Lenovo Đồng hồ thông minh Pro Max 2024|Đồng hồ thông minh|3.7864799E7|50|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10465086
+6e317150-40bf-4731-af2f-335df1b544b0|Sony Phụ kiện Standard 2023|Phụ kiện|4.8749902E7|82|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13229967
+52ea3698-ad3c-4169-96fe-63e974cd7498|Dell Laptop Mini 2024|Laptop|4.0070213E7|255|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-14068344
+ec13f10d-3622-4790-920a-b5cac8aa2c3a|Huawei Laptop Pro Max 2020|Laptop|4.1944992E7|461|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13161564
+60264529-4a49-4bb7-8fc8-dcb113919e11|Apple Tablet Standard 2024|Tablet|1704499.0|252|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-10536038
+910d0da9-426f-4402-b39e-d7a5ccb3d48a|Dell Tablet Pro Max 2024|Tablet|1.5745653E7|97|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-13348450
+5562e07e-847e-42a4-8046-e09852031210|Apple Tablet Plus 2022|Tablet|1.1744858E7|254|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-12827006
+60a03456-48b7-490e-a37e-a5bf240d1712|Xiaomi Tablet Plus 2023|Tablet|1.3705367E7|310|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11516983
+9e825728-0c3e-4f1a-a7e5-19c8b40fd410|Lenovo Tablet Pro Max 2020|Tablet|3.4569824E7|257|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11326107
+a154e15d-c9fc-4df6-9e6c-7dd8740c31b1|Sony Tablet Ultra 2020|Tablet|1.8460545E7|50|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-13688964
+b2420f1c-610d-47f5-99b3-a31f263eea35|Oppo Điện thoại A Series 2021|Điện thoại|2.7688982E7|110|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14201193
+6d11b714-2a73-468d-b97b-c888a80fbd46|Asus Phụ kiện Note 2020|Phụ kiện|1.2729517E7|210|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-12441968
+117992cb-4c6f-4d76-acaf-5faf513b2a67|Apple Laptop Mini 2020|Laptop|1.998107E7|155|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-13677377
+2f3264ba-72a6-4f84-b8c9-fad228f665a0|Apple Phụ kiện Lite 2024|Phụ kiện|4.409445E7|372|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-12309299
+7765ffe8-257e-4340-a7f8-ffc71c012ea8|Xiaomi Phụ kiện Mini 2020|Phụ kiện|4.58911E7|488|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13411918
+b0fa51d0-c3d9-4261-9c47-96b0e9119f34|Apple Tablet Note 2021|Tablet|1.0593053E7|371|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-11457936
+4827f685-317d-44c9-abc2-f1b5c24fd44a|Xiaomi Đồng hồ thông minh Plus 2021|Đồng hồ thông minh|1.5266975E7|394|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11852616
+c63c74e2-57ab-4475-a59b-b59d30d848b3|Dell Tai nghe A Series 2020|Tai nghe|9252166.0|264|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-10740549
+9d8a770a-36a8-44f1-9a22-dde90dd93acc|Lenovo Phụ kiện Edge 2020|Phụ kiện|1.7343254E7|361|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14211671
+38b0a800-a7b2-4761-aba6-82cdfbaf0dad|Sony Điện thoại S Series 2021|Điện thoại|1.9828899E7|421|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-11201147
+f21b5307-85b2-4170-aac9-41a8d30d228b|Lenovo Đồng hồ thông minh S Series 2023|Đồng hồ thông minh|3.7051391E7|357|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15375437
+40d5506a-d94d-4ca5-b0eb-e0ad477e21e9|Sony Tablet Plus 2021|Tablet|4753777.0|279|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-13605934
+93c042b6-6c3e-48ae-9fc6-bcb5269b9fdb|Samsung Tablet Plus 2022|Tablet|2.7240341E7|96|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-15125642
+b875dcce-10c2-4063-988e-4f6de59ce176|Sony Tai nghe Standard 2020|Tai nghe|2.5873031E7|450|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-12436792
+5672faaf-37cd-4cc1-a4ab-eee0f9c3585d|Lenovo Điện thoại Standard 2020|Điện thoại|3.2518765E7|308|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10542908
+6926c1e8-2cde-4305-9b3c-2c21f4469676|Apple Điện thoại Note 2023|Điện thoại|4.8808449E7|481|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-14267504
+06293df0-e7c1-41e0-9e03-312087dfe3ed|Oppo Điện thoại Lite 2023|Điện thoại|1.8296628E7|62|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12295492
+81476451-a98e-46c0-bf45-9e71b2a6014b|Oppo Tai nghe Plus 2023|Tai nghe|1121165.0|85|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11253366
+324e39be-f351-4af8-9486-edf9c0fbe6d0|Samsung Tai nghe S Series 2022|Tai nghe|3.4241104E7|458|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12101712
+da1ca805-dd9c-4f90-8070-62633d58d8d4|Apple Tai nghe Mini 2021|Tai nghe|4.5407134E7|111|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-10401902
+82f03dfe-add6-42d6-90a7-985e24ab0d29|Xiaomi Tai nghe Ultra 2024|Tai nghe|1.5879769E7|477|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11718191
+00c6cfba-2e37-4f01-9e75-9da999adf159|Oppo Đồng hồ thông minh Mini 2020|Đồng hồ thông minh|4.5216115E7|363|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13753492
+80535598-c9a8-47be-aa20-b8f6daf8e13c|Lenovo Phụ kiện A Series 2024|Phụ kiện|3.8147643E7|311|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10531383
+ed2a9cac-1526-4d05-b1b6-4ef7f197dc84|HP Tablet A Series 2023|Tablet|3.4478987E7|146|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-15126329
+e1508374-d6ee-4574-ae25-701c52959c04|Samsung Tablet Ultra 2020|Tablet|1.4369458E7|30|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13166885
+4df954a1-1bd1-4aac-a45f-0ce8fd9a688a|Samsung Phụ kiện Edge 2020|Phụ kiện|1.442424E7|329|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10334612
+0b808716-07a6-43cd-b7f8-615d7937e8e7|Asus Tai nghe Lite 2021|Tai nghe|4.5373929E7|246|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-14477678
+1c5f827a-757e-4f79-a5f0-68660d33ea90|Samsung Đồng hồ thông minh Mini 2022|Đồng hồ thông minh|9814565.0|415|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12167054
+f5b77c04-9b8b-4da9-a831-b39fd512dc47|Xiaomi Đồng hồ thông minh Plus 2024|Đồng hồ thông minh|6136568.0|154|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14934067
+0c3a7670-71bf-45d0-bfc2-485e5b7ac65b|Oppo Tablet Pro Max 2020|Tablet|1.2320693E7|211|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14203214
+40b7db08-8e1e-4d61-abe7-02dcf65f2ead|Xiaomi Phụ kiện Pro Max 2022|Phụ kiện|4.9014336E7|174|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12695396
+a6538d46-9ce7-4354-a12b-8872b6f6946f|Xiaomi Laptop Note 2021|Laptop|2.9494113E7|204|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14539672
+d11de710-0278-460e-9f28-3fc925b77f71|Huawei Phụ kiện Standard 2023|Phụ kiện|3.0987566E7|484|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15310637
+3782586e-cfe7-4de0-8607-4f12a7c3a4fd|Xiaomi Đồng hồ thông minh Note 2020|Đồng hồ thông minh|4.8970542E7|113|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10734439
+6186322f-2945-4cb8-b974-3b1ea692a911|Dell Phụ kiện S Series 2021|Phụ kiện|6755025.0|102|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-14214762
+c60fc70e-0ba2-4258-9051-4fe3fddcb970|Sony Tai nghe Note 2023|Tai nghe|3.2407633E7|259|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14327341
+c77576bf-033e-43ca-bee3-709e81a8e917|Lenovo Điện thoại Pro Max 2022|Điện thoại|4.1228128E7|311|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14934637
+d750dd3b-fd24-4a06-b626-9b621d86fc26|Xiaomi Phụ kiện Plus 2022|Phụ kiện|1.3073024E7|496|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13363033
+3345fafb-01a1-4d4a-b476-f38dc94df6f5|Dell Điện thoại Lite 2023|Điện thoại|2.8547669E7|397|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-11641919
+9d18ca2c-a1ad-48d0-9934-22915a027128|Samsung Laptop Ultra 2022|Laptop|3.5774687E7|481|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14005908
+45800f79-0892-417d-9999-3bac99239af6|Oppo Đồng hồ thông minh Mini 2023|Đồng hồ thông minh|4.9930791E7|194|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11721092
+0af117c5-df7d-47c0-812f-6e064ec3323d|Asus Laptop S Series 2024|Laptop|2.1998411E7|217|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12361538
+3bc6b250-65b3-4426-8596-02c591d8aa3b|Dell Điện thoại Standard 2023|Điện thoại|2.6288432E7|208|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-10659925
+212e75bc-38b3-42f7-96fc-188f0cab3c52|Lenovo Đồng hồ thông minh Edge 2021|Đồng hồ thông minh|1.7627726E7|489|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10278261
+df06d08b-2d82-4991-b307-e462573ebc66|Lenovo Đồng hồ thông minh Note 2023|Đồng hồ thông minh|3.3341027E7|155|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15387455
+aea28943-9dda-4335-9d3b-30db38bd0db0|HP Tablet Plus 2021|Tablet|1.4866024E7|129|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12768824
+fee4e0c3-e4be-42be-b634-d7b5f8abe62b|Dell Phụ kiện Ultra 2024|Phụ kiện|2.9101744E7|308|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-15256184
+23c10290-c415-49c2-b65b-a2aa5ab8f823|HP Laptop Standard 2024|Laptop|3.9123135E7|349|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-11063438
+9dfc3479-e19a-43ea-bc15-45b4e3bd381e|Samsung Phụ kiện A Series 2020|Phụ kiện|3.5657086E7|294|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12965755
+559d47dc-6c21-4d19-9972-e565d7f3dee1|Sony Tablet Pro Max 2023|Tablet|1.3056427E7|121|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-10530114
+e7360f7a-a8be-4aeb-9e1f-e59c9db27078|Asus Tai nghe Ultra 2021|Tai nghe|3.2647245E7|398|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-10598234
+866598df-7478-41c2-abf7-a91c71d03433|HP Tablet Pro Max 2024|Tablet|2.48074E7|403|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-14673228
+8a9ce8ce-ad9d-4e39-8902-36bd44a3954a|Oppo Phụ kiện A Series 2024|Phụ kiện|4175598.0|174|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10411859
+28c74043-67f6-480c-b6be-19f95dc8e35f|Apple Điện thoại Lite 2022|Điện thoại|2.204272E7|174|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-12304265
+8c1b5d1d-92cd-4dfa-af50-556e966ab8bd|Apple Phụ kiện Mini 2023|Phụ kiện|3.0765801E7|450|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11723846
+d52fceb2-cfd4-4ae4-8f2d-dd5e18942df7|Asus Laptop Ultra 2024|Laptop|4.4459229E7|293|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-13933697
+f2959c4f-334b-4244-bfa9-0e7e4c6d8d3c|Apple Tai nghe Edge 2022|Tai nghe|7227506.0|432|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12035458
+e51f9f9b-96b2-47a7-a360-cfaeb1691f4b|Sony Phụ kiện Standard 2022|Phụ kiện|2.7765841E7|409|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-15263373
+d81fb0a2-38c1-4563-8644-c29194c80a26|Apple Laptop Pro Max 2022|Laptop|1.6803279E7|410|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-11002493
+78ffa139-74e3-4ab6-b830-ba7f98368c60|Apple Tablet Ultra 2020|Tablet|3.2421705E7|134|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-13944931
+1344b9eb-dad8-43ba-9bf9-d3679697ed71|Xiaomi Đồng hồ thông minh Plus 2022|Đồng hồ thông minh|4.5249938E7|374|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-15255168
+989364ae-9ac8-4705-86d8-93910bca5c19|Xiaomi Điện thoại Plus 2021|Điện thoại|4.1576188E7|46|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10923096
+3ad27a73-1216-4229-acc1-fd36ca2abe82|Apple Tablet Plus 2023|Tablet|1.3594423E7|436|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-13555808
+8a5c78c5-fbe8-4e52-8b39-143798ab6a62|Samsung Laptop Ultra 2024|Laptop|3.2137524E7|500|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13945409
+48f904a4-f2d3-4e19-bcf1-4bd945ae9e98|Asus Phụ kiện A Series 2021|Phụ kiện|1.9597538E7|182|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-14199949
+127cc0db-8b10-4e7f-a81a-681411ad9655|Dell Phụ kiện Note 2021|Phụ kiện|3.3624544E7|262|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-10676284
+db83d42a-b2d0-49e4-8629-42a14af79832|Samsung Tai nghe Lite 2021|Tai nghe|4.1544831E7|459|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11910698
+6a853d93-3f87-4fd8-a5e5-83db2e9f84a5|Samsung Điện thoại Note 2022|Điện thoại|2.8708606E7|64|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13937554
+0cb505a6-1bd0-4093-97a2-4db2a54fa50c|Sony Phụ kiện Ultra 2024|Phụ kiện|4.7036863E7|208|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11787843
+47c17446-49d1-4877-b4e9-31d656215842|Dell Phụ kiện Ultra 2023|Phụ kiện|3.2746672E7|433|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-14344502
+b38ee8cd-5517-4c6a-b80a-0c1a67480a32|Oppo Tablet Pro Max 2023|Tablet|1.4220594E7|174|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14791821
+df07ebe3-8410-47e3-bbfb-56508edaaf02|Huawei Tai nghe Plus 2022|Tai nghe|6908385.0|300|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14663484
+7e38e613-2c68-49a4-a536-1f9f9a704943|Lenovo Đồng hồ thông minh Ultra 2021|Đồng hồ thông minh|9714894.0|500|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15049806
+36043764-84e0-4b50-8f9c-2c04ee611d87|Apple Phụ kiện Ultra 2021|Phụ kiện|4.1143388E7|470|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-14279976
+f21dc8ef-df97-4a70-aee9-b6562650df19|Sony Laptop Note 2023|Laptop|3.4122308E7|376|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-13016701
+1a1ea114-8868-47ae-8a1c-f1df617590d5|Sony Tai nghe Standard 2024|Tai nghe|4.855429E7|11|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14921003
+458d5b38-6c48-429a-b4b3-c8668234f4ab|Lenovo Điện thoại Note 2020|Điện thoại|6649346.0|234|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11200384
+8fa803d1-c094-404b-afaf-ee08ed904364|Sony Laptop Mini 2024|Laptop|4.8611022E7|212|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-15452497
+6df42bc3-0fe1-437f-a71c-5a83b78f3e8d|Sony Tai nghe S Series 2024|Tai nghe|1.775733E7|105|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-15061075
+a4be668e-0ec3-42e1-9161-b90959804ec9|Oppo Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|4.0628383E7|387|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11719211
+635100f0-3cdd-4f9a-8af0-99c88cd45df0|Asus Tai nghe Edge 2023|Tai nghe|4.2316566E7|423|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-11585372
+1656dd1a-045b-4845-bd54-c19f1e58be55|Lenovo Laptop A Series 2023|Laptop|3450793.0|387|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12049225
+d1f4eebe-227f-472a-b2db-159e8a2240e6|Apple Tablet Standard 2023|Tablet|3.3137445E7|211|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-14007913
+3a8129f9-4653-439d-9a7c-66adf09f07dc|Samsung Laptop Lite 2022|Laptop|4.4959152E7|187|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12630167
+b92f2ab9-d951-4e7b-9bf8-300d3224a572|Samsung Đồng hồ thông minh Pro Max 2024|Đồng hồ thông minh|3.8628173E7|118|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13753197
+b6d897c2-7343-434a-a9fe-f89b8c5c1bc9|Lenovo Phụ kiện A Series 2021|Phụ kiện|4.8570762E7|452|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14799248
+0be6768d-b2e5-479b-9638-35efb9897d87|Xiaomi Điện thoại Lite 2022|Điện thoại|3.030667E7|422|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12170350
+fb6277da-40dc-444f-a2ea-bd4a55122e50|Apple Điện thoại S Series 2024|Điện thoại|3.2925705E7|285|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-15377803
+94f59819-8b7e-4b30-90b2-a9aaa79df7a3|Huawei Tai nghe Plus 2021|Tai nghe|1.8064952E7|43|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11836800
+bf6f139c-d8fe-4047-8cb5-43a9465c4f91|Samsung Đồng hồ thông minh Plus 2021|Đồng hồ thông minh|3.2103946E7|166|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14787945
+7910d1c3-7769-4379-b24d-1bccd20a783e|Oppo Laptop Mini 2021|Laptop|1.1312375E7|233|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15121228
+cccbc0ee-58a9-42fe-9cc9-de724def84a8|Oppo Tablet Plus 2022|Tablet|2.6015135E7|453|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10927726
+69c42993-b562-49cf-95de-98d7f6070122|Lenovo Laptop Note 2022|Laptop|1.1286453E7|301|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13550172
+fd8628ff-a9bc-4996-84f3-abdddc41b988|HP Điện thoại Plus 2021|Điện thoại|4.7431392E7|466|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-12629659
+e6d14445-6806-42ed-9eb5-d11a6297bab4|Oppo Phụ kiện Standard 2022|Phụ kiện|7133296.0|98|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13938999
+d2ab4ff9-3afc-4a2c-bd32-f744b3d05636|HP Phụ kiện Standard 2022|Phụ kiện|2578138.0|127|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11457884
+067a9548-d370-4f3f-9193-6d5ce5a8a188|Samsung Điện thoại A Series 2020|Điện thoại|4.4614424E7|412|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13351065
+cab20216-92e3-41db-8a43-b504bfe2d8da|Huawei Điện thoại A Series 2022|Điện thoại|4.7865311E7|294|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14131349
+1c3b9f82-3019-4dc8-a305-c89f5be9406a|Oppo Tablet A Series 2020|Tablet|3081618.0|261|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15245946
+eaa3a9d2-3291-4b37-9de9-1110389e3f00|Apple Tai nghe Lite 2024|Tai nghe|2.867895E7|285|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-15318613
+08b5f9e7-7333-473c-a135-c86c796111f7|Lenovo Phụ kiện Ultra 2021|Phụ kiện|6977818.0|378|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13744466
+145d5086-c17b-404e-8b99-7a8d3f4210e7|Lenovo Điện thoại Note 2023|Điện thoại|8982458.0|95|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12369014
+5aa8d00c-e6b1-4c5f-b612-bf62671a912b|Sony Phụ kiện Edge 2024|Phụ kiện|1.5363849E7|178|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11918226
+4b2bbb47-2c31-4f2c-8dd1-8cfc67c4b629|Oppo Phụ kiện Pro Max 2021|Phụ kiện|1.2164116E7|400|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13283921
+76b4ed3e-629e-480a-87f5-1ac86dabb3be|Sony Phụ kiện Mini 2021|Phụ kiện|2.6268927E7|425|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13820814
+1fb666fa-bc6d-4e5c-ac11-e4df1422607a|Oppo Tablet Lite 2024|Tablet|2.9046098E7|498|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13425447
+a06a1ee6-75e6-4d3e-a16d-067b7ac42922|Xiaomi Đồng hồ thông minh Standard 2023|Đồng hồ thông minh|2.1927139E7|222|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12112283
+ae824761-ce27-4c05-84fb-d5654790cc1a|HP Đồng hồ thông minh A Series 2021|Đồng hồ thông minh|3.8591689E7|67|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-11715895
+e3bf0931-ef1f-4eb6-8ee3-d5db66468cf3|Oppo Điện thoại A Series 2020|Điện thoại|3.3666253E7|34|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14329244
+fe80353b-f28a-4da1-bb3f-e8a24a282275|Lenovo Đồng hồ thông minh Standard 2021|Đồng hồ thông minh|2.2761789E7|338|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14594645
+f18097ac-568f-408b-9719-3c9a192207d8|Oppo Đồng hồ thông minh Standard 2022|Đồng hồ thông minh|3.2769997E7|396|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10607182
+4993aba1-4bad-4cd6-bb32-84174b244628|HP Điện thoại Standard 2022|Điện thoại|1.9803513E7|231|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-14543657
+20c657d6-d6a0-452b-863d-cefb4fbabc44|HP Đồng hồ thông minh Mini 2024|Đồng hồ thông minh|4.8035661E7|465|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-11266623
+572cbaa7-6359-4a48-b042-e58ce7b6a3bd|Samsung Laptop Pro Max 2022|Laptop|1.6295362E7|191|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13625438
+f93475ce-9eb4-4a0b-9515-b1748e61e130|Dell Điện thoại Edge 2022|Điện thoại|4.9197658E7|375|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-14261329
+91ecd201-e952-4f2a-bab9-1a0896cc2be8|Apple Tai nghe Pro Max 2023|Tai nghe|2.1751405E7|198|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12890930
+7ff40a23-5572-4ef3-902b-af406fe8c61d|Samsung Đồng hồ thông minh A Series 2020|Đồng hồ thông minh|2.8724232E7|57|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13609780
+acbb255e-8088-4ad3-8d5c-83cf32cfa9c8|Huawei Tablet Lite 2024|Tablet|5211608.0|348|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14525065
+c0605a47-319f-46ed-94db-a465b01bb82e|Dell Laptop Lite 2021|Laptop|3.584326E7|21|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-10799478
+e242d1c9-e61f-47fd-8e75-dd40f713f2f2|Oppo Điện thoại Standard 2024|Điện thoại|4.7831358E7|155|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12429938
+1e1ae48f-dbc6-4951-b9d0-be4d9503a424|Dell Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|3.803406E7|137|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-12771696
+7542cc10-d221-4f2a-b7dc-0ec4a68d5ae4|Lenovo Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|2.528958E7|222|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12034120
+fda910cb-74d7-4cb4-8c7b-1f8b2ed6f709|Lenovo Laptop S Series 2022|Laptop|2.1509641E7|495|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14931752
+88b9a027-51b6-4352-a662-1cc0b8f8c72d|Samsung Laptop Mini 2021|Laptop|3.8715096E7|177|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11190074
+c1aed6cd-b4e1-42ec-87bf-8c11d58a4dd5|Sony Tai nghe Lite 2021|Tai nghe|2.8993765E7|149|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-14991961
+20412b1d-6fea-4480-b2a5-dc8fd99f6b29|Oppo Điện thoại Mini 2024|Điện thoại|1364056.0|439|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10725734
+da1fa0e8-989a-4042-bd97-d8d92e3cbb80|HP Tablet Lite 2020|Tablet|6231480.0|208|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-12367240
+772324f8-b44d-4bb7-8d48-b07c7eb57e1d|Samsung Điện thoại Ultra 2024|Điện thoại|3.3831608E7|474|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14921596
+f1b0cd01-5fb0-43ea-a5f0-6d5ba80548bb|Oppo Đồng hồ thông minh Standard 2021|Đồng hồ thông minh|1.2518565E7|286|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10670134
+7dad133e-e404-4c44-989c-adf939754257|Sony Phụ kiện Note 2020|Phụ kiện|2.0430957E7|159|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11182482
+5dcf36de-2ce4-47de-a26c-38053b909939|Asus Tablet Edge 2020|Tablet|2.8193698E7|160|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-13025087
+7e981a76-4900-4999-8139-e4305623939e|Huawei Tai nghe Pro Max 2022|Tai nghe|1.7130863E7|21|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11657536
+67d762a4-f285-42e6-9214-3995cc6b017d|HP Điện thoại Standard 2021|Điện thoại|1.9494749E7|105|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-13868915
+3e560a53-448b-430d-a1b1-6dce4eee069c|Lenovo Điện thoại Lite 2023|Điện thoại|2.1493739E7|461|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12379783
+d8186285-3a63-4c84-b2f1-ab2094033540|Huawei Tablet Pro Max 2024|Tablet|3.6888898E7|388|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10470743
+22f0d1b7-1f01-4b30-9574-c89f35f11c19|Asus Điện thoại Lite 2023|Điện thoại|3.9414877E7|332|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-14532403
+7774046e-8eb3-4e38-985b-a39c291c3530|Huawei Điện thoại A Series 2022|Điện thoại|3.4538402E7|484|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11641982
+a69b7ad8-c9a9-40e9-9938-632a1560bc39|Sony Đồng hồ thông minh Standard 2021|Đồng hồ thông minh|3.6722052E7|265|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-15193983
+7da9df20-2174-4e0f-9b14-62156221ce4b|Sony Tai nghe Pro Max 2023|Tai nghe|1.2364278E7|101|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-13485605
+19ad328f-92a3-45f9-b568-63312888c42c|Oppo Laptop Edge 2020|Laptop|1.1308151E7|261|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13619263
+86ca7d4b-46d3-4eab-b941-331bc90f75fe|Lenovo Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|2.2116362E7|193|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12039291
+5fb051bc-d503-415b-92dc-fb5ae725bd3f|Xiaomi Tai nghe Standard 2021|Tai nghe|3.6608413E7|426|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11252097
+35bc036c-f9e9-4d08-a0aa-25e84614a821|Samsung Phụ kiện Standard 2021|Phụ kiện|1.49975E7|49|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11183666
+b267d2d7-db91-4e2c-811f-6e30a33193b8|Sony Tablet Plus 2022|Tablet|4.0600933E7|33|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-12300587
+17eb1318-ae37-4428-b088-2f567f0b82c3|Samsung Điện thoại Note 2024|Điện thoại|1.0941885E7|329|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11914029
+c25421ae-1403-4d9d-ba6a-d390e3f48c6a|HP Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|4.0985584E7|441|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-13282451
+80499e60-3650-4be6-a038-c947ca76c5c6|Samsung Tablet Ultra 2022|Tablet|3079989.0|288|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10676831
+b3bba6e8-9cec-454d-9966-949417716917|Oppo Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|2.532389E7|233|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11846495
+02011abd-c83f-4524-bcf3-2af8c267d16c|Dell Điện thoại Note 2021|Điện thoại|1.0039391E7|99|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-15050374
+5545127a-6018-402b-b5ee-098b8f4fb45e|Huawei Tai nghe Pro Max 2024|Tai nghe|2.5043072E7|37|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11449715
+632068fd-4316-4a1e-85e9-14b245203c2f|Xiaomi Phụ kiện Note 2021|Phụ kiện|3.5521561E7|77|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12630857
+2d5ec976-51ec-46fd-bccc-1e8fb868e46c|Lenovo Tai nghe Edge 2021|Tai nghe|3.3722804E7|381|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10272610
+ce4ff8df-b4e6-415b-af5d-dfc85ea5726a|Oppo Laptop Mini 2021|Laptop|3.2885716E7|429|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11647548
+6b9e9726-7a4e-44a1-b8b7-10d982ea6aee|Oppo Đồng hồ thông minh Note 2024|Đồng hồ thông minh|1.5086256E7|388|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13887640
+9b7f71d2-ee49-4d43-8ffc-e3b0b0eb0b96|Asus Điện thoại S Series 2022|Điện thoại|3.5999966E7|299|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-10399849
+455a40ad-c48b-4b58-90fd-8c837c1bdbd5|HP Đồng hồ thông minh Lite 2022|Đồng hồ thông minh|9322549.0|41|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-14994269
+c04f958e-182b-4eaf-a1a7-07326178b1a8|Apple Phụ kiện Mini 2022|Phụ kiện|2.1938239E7|319|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11386008
+71ed1833-cebc-4279-a494-c6ca490a0613|Xiaomi Điện thoại Note 2022|Điện thoại|2.8754654E7|465|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11711118
+245b73ca-f649-4944-ba4c-d4c5bc106948|Dell Tablet Lite 2021|Tablet|4307962.0|427|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-15452028
+3cb6c55f-7881-4ebb-9af9-9263cb7589e0|Asus Tai nghe Plus 2024|Tai nghe|3.1501958E7|196|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-10408348
+ba32c8a5-b8b0-452f-9573-ad36180affc3|Apple Tablet Edge 2020|Tablet|1.0043075E7|463|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-12249640
+32fbc1e5-2fb1-4205-9451-b67ddd72a6cb|Xiaomi Phụ kiện Edge 2024|Phụ kiện|4.3726109E7|382|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11383592
+77afa077-c222-4130-b893-e89eec48f9c4|Lenovo Điện thoại Mini 2022|Điện thoại|2.3229742E7|82|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12770414
+341c6e3d-68f5-44b6-a27b-315c272c9646|HP Laptop Edge 2023|Laptop|3.5350032E7|303|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-11771262
+4302a67a-3822-4888-9fdf-138cf2e0562e|Dell Tai nghe S Series 2023|Tai nghe|1.7602994E7|278|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-11253910
+f5fa7788-a6dd-4e91-b498-76f11e7091c4|Apple Tablet Note 2020|Tablet|1.5508232E7|22|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-11711033
+cb16665d-3198-4c5f-bdb9-64172681d427|Samsung Tablet A Series 2023|Tablet|4.4422434E7|257|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12241775
+785681bf-b5eb-4331-a16b-4dba6752022d|Sony Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|3.9171248E7|492|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-14589023
+8d645e4b-0096-43cb-b5dc-707a724a04cf|Oppo Đồng hồ thông minh A Series 2024|Đồng hồ thông minh|1.9828291E7|121|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12104340
+7f6f9a23-c76f-4142-8a79-0c1f99b43d34|Lenovo Phụ kiện A Series 2024|Phụ kiện|8066522.0|28|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15064712
+7b0b649a-6dd0-46cd-9ece-2f79c9f6a340|Dell Tai nghe Ultra 2024|Tai nghe|3.2188927E7|489|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-14134883
+0d795fec-c05c-41c0-a818-719425533832|Asus Phụ kiện Ultra 2021|Phụ kiện|3.9105415E7|190|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-12362908
+362b23f4-f943-4040-9217-cfb105ae59c4|Dell Đồng hồ thông minh Ultra 2020|Đồng hồ thông minh|3.6501503E7|242|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-10407528
+4ec92490-9e3a-4be7-b128-bc7b83572484|Samsung Laptop S Series 2022|Laptop|3035534.0|151|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11856423
+a18552e0-3c58-4a93-b0b1-e9eb84395ba9|Asus Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|4.2991519E7|353|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-12169816
+20d95cdb-b9e4-4f5d-8ac1-2468d56f0f15|Apple Đồng hồ thông minh A Series 2023|Đồng hồ thông minh|3.1458524E7|330|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-14394417
+988f1aa5-7743-416b-a41b-6856f5f6bc1f|Oppo Điện thoại Ultra 2020|Điện thoại|3.8576195E7|170|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11591005
+8e0f3233-4338-4e05-8d9a-5ebbf5d577d3|Samsung Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|4134178.0|83|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13355842
+43376947-c56e-4cd7-9c3d-699b1dbb965a|HP Tai nghe A Series 2024|Tai nghe|4.0102542E7|286|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-11000636
+3152a212-e387-441b-a8b6-5652265b71b9|HP Đồng hồ thông minh Pro Max 2020|Đồng hồ thông minh|2.9822613E7|85|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-14266205
+09feed91-8ed9-4ca5-b59e-8f46a1d9f8b1|Apple Đồng hồ thông minh Ultra 2024|Đồng hồ thông minh|4.9316987E7|471|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-11653973
+1bc607d3-329a-4ccc-8b1e-e21ee974b28e|Asus Tablet Pro Max 2020|Tablet|1.5675671E7|285|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-12052286
+5317f3c5-b217-4e79-839e-fa3229ec657c|Xiaomi Đồng hồ thông minh Standard 2021|Đồng hồ thông minh|1.7469517E7|421|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10538048
+c8695a65-2977-4eef-940e-d2f68b636a87|Xiaomi Tai nghe S Series 2023|Tai nghe|2.2408124E7|46|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13756809
+d4969c7c-2f1c-4081-8539-80d976c64434|Sony Tai nghe Standard 2024|Tai nghe|5558697.0|15|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-13806925
+c319ef2a-32c4-4b23-bc6d-5ee6e5a673b0|Huawei Tai nghe S Series 2024|Tai nghe|4.6126128E7|217|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11003223
+2e65979b-aea4-4553-b768-ecb18d1ad84e|Oppo Đồng hồ thông minh A Series 2024|Đồng hồ thông minh|2943883.0|238|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13822791
+a6bc0738-d411-4bc7-a05b-17f8225e12e1|Apple Laptop Plus 2023|Laptop|6312188.0|341|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-10861212
+03f99f76-e4bb-4a01-bf43-bb3f1c2a2002|Asus Tai nghe A Series 2022|Tai nghe|2.4775004E7|138|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-14137991
+2d4131c4-8272-4560-b364-f68bd73de8d8|Huawei Tai nghe Plus 2023|Tai nghe|1.1084591E7|25|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14200106
+20ae86aa-678e-4ae1-a542-d8ab03352d62|Dell Phụ kiện Plus 2023|Phụ kiện|1.683089E7|415|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-14471259
+4e09f648-1a04-412d-9ea1-11fa7b761fd7|Xiaomi Tablet Pro Max 2022|Tablet|8275425.0|186|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14277453
+c762533f-51c0-48ca-bad3-4b420dd6f041|Samsung Laptop Standard 2020|Laptop|4.8487226E7|310|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12376877
+50aeea59-147b-4c69-af06-f0f5d76c8599|Dell Laptop S Series 2021|Laptop|3.5892187E7|89|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-10611073
+8a9881d4-ff66-4534-9ad3-4beb7996f845|Apple Tai nghe Lite 2021|Tai nghe|2.9409281E7|317|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-14528638
+821638f0-3644-4b81-8611-f87ce2584a83|Asus Tai nghe Note 2024|Tai nghe|2.9420316E7|393|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-11724896
+3561bab5-c7f1-4ac2-acca-4422c5697e81|HP Tai nghe Lite 2022|Tai nghe|2.4884344E7|359|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-12237945
+53746b17-dc49-4ac7-89ec-b2781f756348|Oppo Phụ kiện Edge 2024|Phụ kiện|1.3917694E7|87|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15454328
+0ed7eabc-ae48-459a-99a9-d8cd8a2d9f57|Apple Tai nghe Pro Max 2020|Tai nghe|1.5054357E7|79|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-10996305
+f40ede18-8600-4ba5-9136-04648692261e|Huawei Phụ kiện Note 2020|Phụ kiện|1.6270077E7|116|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14002285
+26ad20b3-c4a0-42d6-8472-159bced0351f|Huawei Tai nghe Ultra 2021|Tai nghe|3.0894877E7|221|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14277521
+f03da788-eada-465e-b750-705d808484b4|HP Điện thoại Lite 2020|Điện thoại|1.3450783E7|477|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-14868021
+3563c4e0-371b-46bc-b796-408c7af730ba|Oppo Phụ kiện Ultra 2023|Phụ kiện|3.2066207E7|359|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12756073
+bb2f90fb-cc52-43e4-b1d2-f0e2eaec19f2|HP Đồng hồ thông minh Pro Max 2022|Đồng hồ thông minh|2.4427768E7|42|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-10544506
+386fd992-77d7-4d42-8f62-b332775c72b9|Dell Tablet A Series 2023|Tablet|2.3846851E7|124|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-14199619
+dbfe0849-7af2-42e0-a751-31e058f1a672|Lenovo Điện thoại Edge 2022|Điện thoại|3.2228182E7|270|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13948538
+35c876e3-a520-47fe-80ad-7f7f23ed6405|Huawei Tai nghe Edge 2024|Tai nghe|3.6907661E7|296|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13081962
+5c61aaed-afe3-4174-9ac2-fff70d9f7d0c|Samsung Laptop Ultra 2023|Laptop|7905175.0|308|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13814321
+9dd91aca-8339-496b-b9a7-460155fdcdf6|Apple Đồng hồ thông minh Plus 2021|Đồng hồ thông minh|9218500.0|471|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-12573850
+4078d2c4-8e44-4b7d-98cd-4f10a01c461b|Dell Đồng hồ thông minh Pro Max 2020|Đồng hồ thông minh|3.2589729E7|444|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-13025083
+4dfb4abe-5a56-4dea-b1be-5cda83cf326c|Huawei Tai nghe Standard 2023|Tai nghe|2.0875236E7|471|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15318144
+1b2c5c1e-2926-4165-94f5-d3c270a3d757|Oppo Tai nghe Edge 2024|Tai nghe|4.5828852E7|259|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14793580
+b99cc5d3-4662-492b-ae9d-bc034eb87eeb|Huawei Điện thoại Edge 2024|Điện thoại|2.6448035E7|239|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11716229
+da9d6275-f2cf-42b6-8a28-5701a2678ca9|Samsung Tablet Note 2021|Tablet|8877111.0|387|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12756593
+dd3f2ba8-4843-4712-bcc7-848ba4165605|Huawei Laptop Ultra 2023|Laptop|1.2259351E7|376|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13874524
+940e71df-49af-43e5-ac48-a561427af01d|Dell Tablet Plus 2022|Tablet|4.3725451E7|394|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-12626802
+3c932341-ebed-4683-b6c0-8a058f8913dd|Apple Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|1.0800527E7|475|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-11906172
+02646641-5849-46ea-a57d-8654af00b0ee|Lenovo Laptop Mini 2021|Laptop|4.2725493E7|316|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14927724
+c2f60186-7f1d-4142-bc2e-e4cbe58b6ba7|Asus Laptop Ultra 2020|Laptop|4.5496658E7|387|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12429916
+d9192730-a08e-4749-bdb1-a7bd1f33d4b7|Sony Đồng hồ thông minh Standard 2023|Đồng hồ thông minh|4.0213679E7|382|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-12510035
+cae076a7-1fd3-48dd-8df6-568add02d286|Oppo Phụ kiện Ultra 2020|Phụ kiện|2.8231616E7|407|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12047962
+d3976a7c-6bee-4a77-93c1-3a8891c77ef2|HP Phụ kiện Lite 2024|Phụ kiện|6518932.0|301|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-15051846
+5c68cb99-5e02-4d7d-972d-5eb51e857874|Huawei Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|3912010.0|160|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13477701
+6310fbef-461a-4134-a375-8d94e883919e|Samsung Điện thoại Edge 2024|Điện thoại|1.3268718E7|102|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14132262
+94678eb0-db36-47e4-8cae-a368e4a7e7a7|Sony Điện thoại Edge 2022|Điện thoại|2.5474775E7|479|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-14211633
+034626c7-5529-47e1-9ae5-bff28920869d|Huawei Tablet Pro Max 2024|Tablet|4.2796518E7|21|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14540923
+3372ddff-7f0b-485c-9730-b6772c359e2f|Apple Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|3.3351614E7|253|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-15320940
+377df0ee-a807-42c2-97f5-4f181c0a1744|Dell Điện thoại Ultra 2020|Điện thoại|8839184.0|144|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-13021537
+162829f4-69b4-450c-bf21-eb5e92c9ec4f|Lenovo Điện thoại Pro Max 2024|Điện thoại|1.7645922E7|303|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13871911
+2d2e5a76-c2ad-401c-a64e-1fdec249e1ae|Asus Tai nghe Lite 2023|Tai nghe|2.7780505E7|82|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-13542554
+0d41ce18-e6c1-483d-af11-7c1ddd3cce06|Sony Đồng hồ thông minh Pro Max 2022|Đồng hồ thông minh|2.197951E7|356|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-14797900
+0af0b7b8-f7fe-4c14-af81-7f83e3c2893b|Xiaomi Phụ kiện Lite 2021|Phụ kiện|3153750.0|460|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12963902
+356d6cb6-8b54-412d-80dd-ae9081e0f932|Oppo Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|3.7539797E7|364|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11986231
+9e36b751-7e9f-4008-8878-893e1881c1f4|Apple Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|2.491845E7|346|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-11853448
+b1938733-a6cd-403e-8fd9-abec4571319b|Asus Laptop Standard 2023|Laptop|1.2751365E7|245|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-13421174
+aa04bb0f-eb30-48f4-b5a9-b0ec8a940771|Sony Phụ kiện Standard 2024|Phụ kiện|2.8812091E7|159|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-15388294
+b7cb486e-8191-469c-826d-e890222f17a9|Apple Laptop Ultra 2021|Laptop|4.3653393E7|27|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-15459700
+26603f54-b69b-40b5-b189-2ac2d9e8ef52|Asus Tablet Standard 2021|Tablet|3.7145361E7|434|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-12299311
+91290090-e3fb-4d96-a39c-be93f6c5a2b2|Huawei Tablet S Series 2024|Tablet|4.4727817E7|188|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13492585
+df6e42f6-0755-4cfa-bd08-06a9b06bded6|Sony Tai nghe Mini 2021|Tai nghe|3.3170997E7|345|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-11784331
+0c2c1b54-9896-45a3-a3bc-cfddd9083886|Huawei Điện thoại Pro Max 2023|Điện thoại|2230624.0|405|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14476425
+eaf3f3bf-c4e8-4f26-bf60-a363901e3508|Huawei Tai nghe S Series 2022|Tai nghe|2.115301E7|423|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10345372
+8efc4fea-2dfd-4fc2-92a1-45d74d5d90de|Asus Phụ kiện Note 2020|Phụ kiện|4706857.0|275|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-14130541
+dd9c0e75-a163-4c25-aaf7-b1816e512f55|Oppo Laptop S Series 2020|Laptop|7859251.0|227|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10398323
+c2015932-6ff7-431c-b925-589026a30a78|Asus Phụ kiện Ultra 2020|Phụ kiện|2.1478325E7|140|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-11116841
+7fabfc83-ce27-46a7-94be-6c0ebbab1e8a|Lenovo Tai nghe S Series 2021|Tai nghe|9680617.0|453|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13542747
+22054028-85a3-4ad0-894a-c9ead1922650|Dell Tablet Edge 2020|Tablet|4.0950997E7|402|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-12378957
+c8028f16-e865-44b0-9777-ca1ad3ec8b79|Lenovo Phụ kiện S Series 2022|Phụ kiện|2.0035102E7|99|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13741463
+c1241754-de01-4f7f-87ac-837a9ff4bcca|Samsung Đồng hồ thông minh Plus 2020|Đồng hồ thông minh|4108719.0|362|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10793540
+3ca1e196-f3c3-4d0f-bda2-543279462662|Xiaomi Tai nghe Lite 2023|Tai nghe|3.2335395E7|495|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14925127
+56ee9d99-d7c9-41a6-8e66-1444f6de73fc|Asus Laptop Plus 2020|Laptop|8887944.0|405|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-13548367
+a28af8c9-29fc-4cff-9ac5-10ecae42de23|Huawei Tablet S Series 2023|Tablet|6974363.0|280|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15189146
+8f4a5ed3-2a3a-45cf-ad86-ac81c0e5c9af|Asus Laptop Ultra 2024|Laptop|1.5841558E7|304|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11455118
+829b7a62-814f-441f-86c4-cf367e132a77|Samsung Tablet A Series 2024|Tablet|1.3752224E7|305|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14728285
+0441316e-66a1-4a53-97b6-f7f3d3c70f83|Samsung Đồng hồ thông minh Note 2024|Đồng hồ thông minh|4.9658742E7|154|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14012215
+2a7b9397-24e1-491b-89b5-3d5f1b35b4d2|Lenovo Phụ kiện Standard 2020|Phụ kiện|2.1307106E7|260|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13476166
+c5219797-3edd-4161-abbe-de2a13bc6615|Oppo Phụ kiện Mini 2020|Phụ kiện|2.3827832E7|459|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12234629
+eb745b9c-e555-4209-b60b-502bdceaf257|Samsung Tai nghe Lite 2023|Tai nghe|3.7387153E7|230|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13552523
+bb0f2129-58e0-4938-ba3f-259033002ea3|Asus Điện thoại Mini 2024|Điện thoại|1.7533108E7|304|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-11589182
+11f3890e-2536-4c4d-9e8d-c8ce834ed9f9|Asus Tablet S Series 2020|Tablet|2.6634553E7|247|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-13424201
+ccc677c1-db0b-42b1-aebe-4bc35113120b|Dell Tai nghe Note 2024|Tai nghe|2.0772361E7|108|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-12834917
+c80c8871-d45a-437e-affb-261a2232927d|HP Tai nghe S Series 2020|Tai nghe|1.5048878E7|141|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-14802492
+be787d7b-69f2-4304-a89a-c3aa7203171d|Lenovo Tai nghe Note 2021|Tai nghe|2.4581015E7|407|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14462105
+109d1326-8cfe-4e8f-a098-88bbffb7d6cc|Lenovo Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|4.8376005E7|160|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11398032
+a3200259-4c90-4ba3-8a1b-d11e023720de|Asus Laptop Plus 2021|Laptop|1.3311875E7|475|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12766564
+9c944840-14a0-41b0-8cb6-f95ff08fb906|HP Đồng hồ thông minh Pro Max 2020|Đồng hồ thông minh|4.401994E7|435|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-12696618
+bbf35f1c-b52d-4bdc-bd27-87be9da23498|Lenovo Tablet Mini 2022|Tablet|1.0434911E7|141|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12625031
+bf95236a-45ba-41a4-840c-80db2593e086|HP Phụ kiện Pro Max 2024|Phụ kiện|2.7258882E7|361|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-11067469
+e76bae3e-1594-42d9-88fe-9a13a2747ba6|Sony Laptop Ultra 2024|Laptop|2885870.0|189|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-12033905
+df2736eb-291c-477c-b7d1-398d9560ec8b|Samsung Tablet Plus 2023|Tablet|3.1150323E7|82|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14012007
+ae447dc4-82db-46bc-bcd4-7be630567fba|Huawei Phụ kiện Ultra 2021|Phụ kiện|4.1011149E7|311|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12630313
+1b3b4ae4-babe-428f-8a90-29b1de0edf42|Lenovo Điện thoại Lite 2023|Điện thoại|1.2329059E7|296|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14135928
+67858005-d7c1-49e8-8589-82a02775a84b|Apple Tai nghe Mini 2023|Tai nghe|2.5897142E7|73|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12640566
+8ff947ba-2984-4cf0-8906-3040586e5ab4|Samsung Tai nghe Pro Max 2024|Tai nghe|4.4871355E7|445|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12898673
+5eeabc76-af40-4f63-a2ae-2ebef7787eb3|Lenovo Tai nghe Pro Max 2021|Tai nghe|4.7372295E7|88|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11783219
+c17ece69-a537-4107-b0ac-5eb12e52596e|Asus Đồng hồ thông minh Pro Max 2023|Đồng hồ thông minh|1.863899E7|238|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-11066985
+68ba30d4-c2e3-49d2-87e5-923ad4455a25|Sony Tai nghe Standard 2020|Tai nghe|4.0849106E7|478|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-11779226
+c5d039cd-e9c7-4330-86ea-6a85981aef02|Lenovo Tablet Plus 2022|Tablet|3.0048818E7|118|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13810266
+1113f40e-6b1b-4fd2-b3e9-b82830694b0d|HP Phụ kiện Standard 2023|Phụ kiện|3.3923129E7|425|HP|Phụ kiện cao cấp từ HP, hiệu suất mạnh mẽ.|-12177234
+177ce034-f82f-410a-ab31-e38285036146|Lenovo Tablet Plus 2022|Tablet|8206343.0|214|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13362064
+8bdfc7df-9c8f-4442-96de-c84f53dfef99|Oppo Đồng hồ thông minh Edge 2020|Đồng hồ thông minh|1.9850703E7|72|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14722374
+eb30c8f7-bded-4738-a542-43a424bbc44c|Sony Tai nghe Lite 2022|Tai nghe|1.1815674E7|137|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-11971465
+e1797a43-5d5e-41df-9af9-777e197fcf54|Samsung Phụ kiện Pro Max 2022|Phụ kiện|1.1313173E7|461|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14860329
+dc7858ad-51ec-4891-ab11-3f172f814077|Oppo Phụ kiện A Series 2022|Phụ kiện|4.2587829E7|438|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14597427
+049fb61a-55a0-4539-a76c-ee27f3d3431a|Apple Phụ kiện S Series 2022|Phụ kiện|4.9593417E7|67|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-12957265
+87313c09-dd07-40f6-9b77-7c7339b13853|Apple Tablet Ultra 2022|Tablet|2.3794156E7|441|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-10463589
+aa01cf99-37bb-4c74-821d-3c1bbe266259|Asus Laptop Lite 2020|Laptop|5991106.0|99|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-14000743
+d7557309-97c7-42d2-bb78-dcd64a93973d|Xiaomi Đồng hồ thông minh Lite 2024|Đồng hồ thông minh|1.2462138E7|393|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11640722
+8b52f3c8-1c7a-4fd2-8196-6d5f3049b452|Asus Tablet Pro Max 2024|Tablet|9860575.0|301|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-10595199
+d057b65e-7f36-4bc5-aa81-5d5453769641|Xiaomi Laptop Ultra 2023|Laptop|3.9131696E7|287|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13884523
+39d5da0d-e0a6-4512-9898-5c18aca5d038|Lenovo Tablet Lite 2024|Tablet|3.4871649E7|328|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11584352
+126db41e-153e-417a-b1fa-6ef7153be450|Xiaomi Tai nghe S Series 2021|Tai nghe|2.0745142E7|135|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11460213
+c6218acf-9f2d-4685-a89a-74d6b2197873|Oppo Laptop Mini 2020|Laptop|4.2306337E7|110|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12426396
+0cb7585c-3740-4072-9f44-3b9d193c495d|Sony Điện thoại S Series 2021|Điện thoại|4.8078546E7|224|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-10794130
+1a029b80-98f2-4608-8042-81e61ec80f2c|Asus Tai nghe Lite 2024|Tai nghe|2.6959268E7|151|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-14148165
+59149173-ae40-45b0-bf0b-ffbf64e9bac9|Dell Điện thoại Plus 2023|Điện thoại|3.3832718E7|252|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-11907627
+f0f8c04d-f627-483a-b609-22ec71dc5963|Oppo Phụ kiện Ultra 2020|Phụ kiện|2.8941906E7|487|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13675085
+a502bc73-6942-4223-b955-e0ab7d6a79c2|Oppo Laptop S Series 2024|Laptop|2.2909375E7|414|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14407506
+18efd17a-116e-4347-a01e-8607ae9bb98a|Asus Laptop Mini 2023|Laptop|7924749.0|365|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-10788907
+1ee33c5e-3ffa-494e-8513-88d7759025f5|Oppo Tablet A Series 2022|Tablet|1.6103768E7|212|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12768320
+1021d416-c0c9-42aa-9b9a-1b2b58623beb|Asus Tai nghe A Series 2023|Tai nghe|4.1887045E7|183|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-15120991
+60387340-1115-470f-84d9-4375ea05c205|Apple Tablet Pro Max 2023|Tablet|4.4347524E7|89|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-15065991
+f172e0f6-53a7-4f11-abd3-d056a1dcc5c0|Sony Laptop Pro Max 2020|Laptop|7357479.0|87|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-13081999
+ac7b9857-d2da-482b-846a-9de659d712ba|Apple Đồng hồ thông minh A Series 2021|Đồng hồ thông minh|3376107.0|258|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-10988436
+236a1eb6-c76e-4c1f-b680-f2bef89e1efe|Xiaomi Đồng hồ thông minh Edge 2023|Đồng hồ thông minh|4.3441785E7|174|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14739353
+15407a13-0f99-4bc1-8c57-37dbb1b29ebd|Huawei Đồng hồ thông minh Lite 2024|Đồng hồ thông minh|4157059.0|445|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10807413
+209e9e51-122b-4edb-9feb-8f5019e2975a|Asus Đồng hồ thông minh Plus 2022|Đồng hồ thông minh|2852842.0|459|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-11248460
+b5fc3800-b842-4e24-91a4-362d377ef946|Oppo Điện thoại Plus 2021|Điện thoại|3.2754297E7|353|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12771377
+c21c580b-5ead-40ac-ae0a-9bf058fb0cbd|Dell Laptop S Series 2021|Laptop|4139823.0|214|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-12297868
+1bb690ce-14ca-43c3-a206-548ff360e4f4|Oppo Đồng hồ thông minh Ultra 2023|Đồng hồ thông minh|4.4910911E7|198|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13093195
+ce9913ed-3ee7-4c32-b44a-2a4854aa8a6f|Sony Phụ kiện Edge 2020|Phụ kiện|3.6067622E7|178|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13153934
+69f2fa23-ed87-4d74-9492-683755910aab|Asus Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|4.3563509E7|159|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-10536554
+084de53d-806f-42fa-9802-7998d34ec66d|Huawei Tablet Plus 2022|Tablet|5378450.0|175|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12570718
+6378fba3-38d6-4e2c-9d14-8c04ad4efd19|Asus Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|1.6476093E7|139|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-14992215
+21e945d9-f759-459d-b779-2a1cbd099b3e|Apple Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|2.7324599E7|85|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-10266776
+5bff38c5-b6ac-48e2-819f-2b5d81dd37e1|Xiaomi Laptop S Series 2021|Laptop|3.432887E7|66|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12969543
+7510a473-ef16-4910-80fb-e5532c0658fa|Asus Tai nghe Ultra 2024|Tai nghe|2.4741467E7|409|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-12048527
+6aab9a62-6c43-4bb8-b7b5-34eb27c0de05|Dell Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|2.7821308E7|486|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-14801505
+be79ef1e-10e6-48e1-98b9-e9176da5bcae|Oppo Điện thoại Note 2021|Điện thoại|6058208.0|232|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10864277
+b1be1773-0caf-4d54-a9fb-7b2997c5e617|Sony Điện thoại S Series 2022|Điện thoại|5920115.0|498|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-14000997
+29d363d3-4f28-4129-86a7-b9119be38c74|Sony Phụ kiện Lite 2023|Phụ kiện|3.7018313E7|404|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13087314
+1c5592ec-0a97-41c7-8c77-dc9df1dae515|Samsung Tai nghe Note 2022|Tai nghe|4.4426167E7|463|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-15262308
+8f21332e-af78-4a83-81a4-f3e918d7c0a3|HP Đồng hồ thông minh S Series 2022|Đồng hồ thông minh|2.6247631E7|122|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-14529400
+766c8bcd-adfd-4fd1-bbf0-b53b8135b4cf|Xiaomi Điện thoại Edge 2022|Điện thoại|4.4247258E7|172|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10281527
+5ff1c8cf-f9b8-42bd-b9ca-0d8e6463ef53|Oppo Phụ kiện Lite 2023|Phụ kiện|3.5213544E7|300|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13415538
+ff18f2aa-76d7-4347-9e95-c8254dee5155|Lenovo Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|3.0705377E7|320|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12558439
+fe4f0d4a-564d-47a1-91ca-ddeaeece2a15|HP Điện thoại Lite 2023|Điện thoại|4.4272221E7|318|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-12500283
+9c83b36a-6a26-415e-9f11-18d1d9a6742f|Sony Điện thoại Note 2024|Điện thoại|4.4203379E7|429|Sony|Điện thoại cao cấp từ Sony, hiệu suất mạnh mẽ.|-11593586
+42acd2c8-a2d6-4e1e-834c-e7f33e79cbfb|Apple Laptop Standard 2021|Laptop|5146829.0|143|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-12501810
+14f6e95c-d3c1-4e41-a526-296786b7885a|Xiaomi Phụ kiện Note 2020|Phụ kiện|1830886.0|131|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10467635
+c86f5aab-e45b-4e60-b837-8d5a42b3f79b|Samsung Laptop Note 2020|Laptop|3149072.0|235|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12234277
+a43f1ae6-414f-449c-857f-6f108faae5f3|Asus Đồng hồ thông minh Plus 2022|Đồng hồ thông minh|2.0162739E7|441|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-15197246
+a1863319-c7f9-43bd-a9d2-7a92b518db4b|Samsung Phụ kiện Lite 2022|Phụ kiện|1.3017342E7|59|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12631372
+e84258d2-b700-4223-b394-fae0300fc018|HP Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|3.6552205E7|317|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-13346702
+c1aabcce-00e6-4208-af89-1358a47cc29b|Dell Laptop A Series 2020|Laptop|2.9307396E7|155|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-12888698
+f178c275-a2eb-4041-aa17-def33369b954|Huawei Tai nghe Plus 2023|Tai nghe|4.6482876E7|478|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12570152
+9a42c2dc-8a3a-4590-9731-b485fb5b3333|HP Tai nghe A Series 2021|Tai nghe|4.3985548E7|16|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-10340902
+cc610d8b-511a-4093-acfd-5b177d5987d0|Asus Tablet Edge 2023|Tablet|4.845243E7|156|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-11251345
+cc874cc1-813f-4f87-8995-cc59ea4c1938|HP Điện thoại Mini 2022|Điện thoại|7967396.0|109|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-14204739
+ebd00dba-b8ca-4cb4-9121-7b0db46060be|Oppo Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|2.1797062E7|155|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10659132
+a5a76535-dc33-482b-9f64-c3974c47f85f|Oppo Tablet Edge 2020|Tablet|2.8667049E7|360|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13817948
+281f5df1-c217-4dd7-be53-6457e0a5c3e7|Huawei Tablet S Series 2021|Tablet|4.0343761E7|332|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14920746
+4c4378d7-dd1e-476b-b6be-6cc486fe90b5|Huawei Điện thoại Note 2024|Điện thoại|3.1903433E7|297|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10729284
+a72fd1b1-6567-4253-9c9c-124530546f78|Asus Đồng hồ thông minh Ultra 2023|Đồng hồ thông minh|4.4723232E7|174|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-13878647
+38a6c69b-d163-4b03-8e74-7371c4fa0f97|Sony Đồng hồ thông minh Note 2022|Đồng hồ thông minh|1.7512554E7|66|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-14528628
+bb496c11-85d2-4770-9115-47030adec1c7|Oppo Tai nghe A Series 2024|Tai nghe|3.2664471E7|385|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14863417
+73f6676a-2c1c-4571-b518-e66d64e650ed|Samsung Tablet A Series 2021|Tablet|4.8141423E7|35|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-15454270
+4d05fb75-eb73-49a9-acc4-f6f0780f4f31|Dell Laptop Note 2022|Laptop|2.5888299E7|367|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-14204560
+a781318b-5027-4fff-abfd-a5973991a87c|Oppo Điện thoại Mini 2023|Điện thoại|2.21992E7|57|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15067708
+9aa19a10-63f2-44bd-b008-72fd501c959e|HP Laptop A Series 2022|Laptop|4.0691667E7|31|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-14723651
+c46ec6ef-ac87-4e40-9571-97165376c088|Dell Tai nghe Standard 2022|Tai nghe|2.9568049E7|96|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-13821482
+7b6b159f-f1b4-4f0d-88e0-5a9753e4bf3b|Apple Tai nghe A Series 2023|Tai nghe|1.1521629E7|482|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-15383927
+fb285a94-5aa7-4479-93a2-b212329f1b8e|Oppo Tablet A Series 2020|Tablet|1.3167332E7|277|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12892521
+dce9f8e1-1ac9-48bf-a084-e7dbeca406ec|Lenovo Đồng hồ thông minh A Series 2020|Đồng hồ thông minh|1.5345833E7|73|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13159980
+6640a94b-2701-468a-a9e5-2ca8adfed877|HP Tai nghe A Series 2020|Tai nghe|2.5410257E7|483|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-14658928
+d433033c-9bb0-48cb-baad-d00079455b7c|Huawei Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|4.2553594E7|106|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14655314
+8d3431b1-567a-43ab-bc67-168a6ad51d5d|Sony Tai nghe Standard 2022|Tai nghe|2.2988557E7|79|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-13099339
+f7ec0441-becb-401e-bfbb-6b55118233f9|Samsung Tablet Pro Max 2024|Tablet|3.9394159E7|495|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11774582
+b3709c77-ce2a-4b17-a737-be90acc379e1|Dell Đồng hồ thông minh Note 2020|Đồng hồ thông minh|3.6260526E7|391|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-15048332
+2affacf6-7f7d-45af-9cc4-d16010fc4886|Sony Tablet S Series 2022|Tablet|4.7310617E7|267|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-13608823
+b11201fc-b0bd-4010-81fe-3d920cc45799|Huawei Laptop Ultra 2023|Laptop|4.6895348E7|95|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12100677
+d01d114d-8bae-45a7-9f7f-cadc9807a6e3|Samsung Phụ kiện Lite 2023|Phụ kiện|2.7210031E7|109|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11129405
+88379fac-6ed4-4499-993f-3341abf633ac|HP Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|4.3273248E7|95|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-13216809
+0350f338-d034-4e95-8704-ac910c35e5e2|Apple Điện thoại Edge 2021|Điện thoại|3870328.0|479|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-12702564
+037ff8a7-1a26-414a-bcc2-7b05977d5e4b|Asus Đồng hồ thông minh Lite 2022|Đồng hồ thông minh|4.0354909E7|227|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-10461488
+bff33d8b-9ea4-407a-b25c-93a48c4c482e|Huawei Điện thoại Plus 2023|Điện thoại|3.3851172E7|12|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13941880
+b5169670-fe81-4d83-868d-87b2274dd8ee|Sony Laptop Ultra 2021|Laptop|8445464.0|42|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-11518354
+b6b4b273-1534-4ff2-8d80-3f3ab0778e64|Sony Laptop S Series 2022|Laptop|3.9611696E7|132|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-10275169
+45c2316b-65e1-4c03-9335-e71d9daac248|Apple Phụ kiện A Series 2022|Phụ kiện|2.769385E7|237|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11396667
+591210d4-9a72-484a-8c70-99766534b83f|HP Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|2.7174721E7|145|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-14067336
+2024ee0e-2643-40d3-92d7-c8bf7e6cf5ba|Oppo Tai nghe Mini 2020|Tai nghe|2.8878982E7|395|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13480487
+49070ce6-d9ba-4c34-a527-ba9c2879b43c|Sony Đồng hồ thông minh Ultra 2021|Đồng hồ thông minh|2.3572108E7|259|Sony|Đồng hồ thông minh cao cấp từ Sony, hiệu suất mạnh mẽ.|-11588917
+19fa343f-e23c-4dac-be85-3c5f7f3e4719|Dell Laptop Edge 2023|Laptop|2.1354279E7|180|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-13362996
+8e9e34cf-21f0-4bac-a10a-dfd4d30fef57|Apple Điện thoại S Series 2020|Điện thoại|1.3246564E7|396|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-14328357
+0db24e32-aa93-45db-88e7-e7bd77e44667|Sony Phụ kiện Pro Max 2021|Phụ kiện|1.5432075E7|263|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-12635701
+3b4f4f0a-6c47-4ca7-8b67-b9c7da3c05a5|Asus Phụ kiện A Series 2021|Phụ kiện|2.4751681E7|106|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-10341007
+6779e56c-5789-497a-89a9-c84c40dd686b|Xiaomi Tablet Note 2023|Tablet|4.7619049E7|114|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14339384
+433d21b0-63ab-4c1b-92b4-6ccf9e4a64ff|Oppo Điện thoại Note 2023|Điện thoại|1.6050668E7|446|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14672678
+26d68e09-20a7-4de4-b869-aa2083b00a41|Apple Đồng hồ thông minh S Series 2023|Đồng hồ thông minh|2.8262221E7|286|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-13291889
+028e8d9a-361e-4935-8b8a-587bf35d00c6|HP Điện thoại A Series 2020|Điện thoại|3.8136571E7|28|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-11905680
+75710c1b-6b58-4b63-b9ea-1abd7dce4b2d|Samsung Đồng hồ thông minh Plus 2023|Đồng hồ thông minh|3.9454266E7|432|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11182987
+0b1cb38f-2792-4287-94b9-e11261cb4fec|Samsung Tablet Lite 2024|Tablet|1948982.0|465|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13873978
+dc1fa52f-946c-403d-818a-213a43920246|Oppo Tablet S Series 2023|Tablet|3900351.0|343|Oppo|Tablet cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12632214
+fde17d8f-b983-463d-9199-7aa98d82441e|Oppo Laptop Note 2021|Laptop|1.1062763E7|130|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12307560
+3f56933f-7745-4038-a941-0dbc0a243f1b|Sony Tai nghe Plus 2023|Tai nghe|2.6970893E7|128|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-11331888
+cf4a2dc3-18a4-4621-a73c-ba9e6da0cb2b|Dell Đồng hồ thông minh Lite 2020|Đồng hồ thông minh|1.2647438E7|110|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-10407019
+645e6ac6-85b4-4b9a-ae4c-bccf80ba9354|Sony Laptop Pro Max 2024|Laptop|2.2329803E7|70|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-14666360
+d4cba5cf-2b1e-4b9c-b017-32fef16bb33a|Asus Phụ kiện Pro Max 2022|Phụ kiện|4.0764102E7|143|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-11134760
+a582b34c-7e4f-4e89-8705-76ffdd70931e|Xiaomi Tai nghe Edge 2023|Tai nghe|1.5693843E7|28|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14014793
+347bcfcf-a9c2-45ff-82c8-48c1d711e530|Huawei Điện thoại A Series 2024|Điện thoại|1.8937938E7|275|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14866073
+66aa3804-4c0f-49dc-bf44-a1f4e0b38d30|Huawei Tai nghe S Series 2024|Tai nghe|1.739664E7|387|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13018733
+95fa5929-91f9-4cf7-8ed5-85465554cf4a|Apple Điện thoại Pro Max 2024|Điện thoại|4.1045958E7|365|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-10675552
+e81c1a08-c32c-48ad-ab60-fbc5812d02d7|Samsung Laptop Plus 2024|Laptop|4.1679004E7|380|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13279055
+a4590a50-1bff-43f8-bd79-5cb44bb55f43|Sony Phụ kiện Standard 2024|Phụ kiện|8595174.0|461|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-10268824
+9657e5ee-7507-4ced-a88e-d21aeadfa343|Oppo Phụ kiện Note 2024|Phụ kiện|3.4654416E7|167|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15184696
+ce31bef8-de12-403e-9a77-d824c1849df7|Asus Điện thoại Note 2022|Điện thoại|1.7425833E7|466|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-13222741
+0e69578c-156c-424c-82c7-1e4debce71b9|Oppo Tai nghe Standard 2023|Tai nghe|3.1281008E7|411|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14592847
+64cd5f7e-cd98-46a4-bee7-9f7798aa57f9|Dell Laptop Standard 2023|Laptop|8134996.0|268|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-13097840
+22b2ae9b-bbc0-463f-8636-fa0e11443959|Apple Tablet Ultra 2023|Tablet|3.9344392E7|428|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-14984563
+101ffa21-6c84-4123-869f-2b3f9f92bab4|HP Tai nghe Plus 2020|Tai nghe|8946617.0|410|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-15459955
+2705fc18-718d-4e5b-92a3-1282f95c6bae|Xiaomi Điện thoại Note 2022|Điện thoại|4.7987279E7|129|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13345934
+bfb7f684-2f77-4121-9a52-5188a8bf65cd|Apple Phụ kiện Edge 2023|Phụ kiện|3.0230547E7|131|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11914628
+251bc2fb-4f1b-4dc9-9d55-c3ed409cf472|Asus Tai nghe Ultra 2022|Tai nghe|3.3588303E7|227|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-11518078
+8dbde2d6-135b-4fa0-82b4-07397c7222e7|Dell Đồng hồ thông minh Note 2024|Đồng hồ thông minh|6832648.0|402|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-13223003
+17e5df38-9004-4f6a-ae8d-1f3d33c2824f|Samsung Tablet S Series 2022|Tablet|1.0434486E7|172|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11779935
+cad5d1aa-a94e-4e3c-91b2-22644235bece|Apple Phụ kiện S Series 2021|Phụ kiện|1.3320835E7|348|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-14795919
+16df61fd-ccf4-436b-87f0-70441b810308|Dell Tai nghe Mini 2020|Tai nghe|4.574202E7|236|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-11649594
+bd0e09b1-4fb9-4025-bd43-f4ecc73cb4fe|Dell Laptop Ultra 2021|Laptop|2.571666E7|421|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-11132302
+f863cf47-153e-4af6-92a4-9784909b7056|Asus Laptop A Series 2023|Laptop|1.4488922E7|235|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12632871
+c365a1ad-7e3f-4c79-b30f-e88dc253c2ed|HP Đồng hồ thông minh Mini 2024|Đồng hồ thông minh|1.759755E7|107|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-11330374
+6d31c624-0848-4c9c-be88-bb642c1195a9|Samsung Laptop Pro Max 2020|Laptop|3.4951139E7|72|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13351022
+35ce53e2-41f4-4c3f-8067-62a8212383f2|Lenovo Tablet Plus 2020|Tablet|9775971.0|447|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13098031
+da8a4010-f21d-462c-b1ac-4ee3783928f6|Asus Laptop S Series 2024|Laptop|8566953.0|449|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11913607
+22cac237-ee66-47b0-adb4-d97b3b06b4ff|Asus Tablet Lite 2021|Tablet|1.6659591E7|10|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-14788439
+fbb06889-19f6-4e0a-a84b-529d25607a63|Lenovo Tai nghe Pro Max 2023|Tai nghe|3.1879679E7|55|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13422212
+c63f4826-16aa-4210-b2af-323573b85451|Apple Laptop Edge 2024|Laptop|4242119.0|16|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-15124848
+fe3fddeb-34c4-4ed4-8812-22287031a1c0|Sony Laptop S Series 2021|Laptop|3.3785231E7|135|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-15447414
+883ebf67-1011-457b-9339-9bad22b0d061|Apple Tablet Lite 2023|Tablet|4.0127029E7|17|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-11774571
+e2689a3a-85e2-4b74-a5dd-47f4e1d33223|Oppo Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|2.3372717E7|68|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11515507
+58b02780-31b7-4c1a-bc56-dee0666a3fd6|Xiaomi Phụ kiện Standard 2022|Phụ kiện|2.9354082E7|65|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14921585
+1b1b6c31-d5e3-45ef-babb-e332d6de73fc|Dell Phụ kiện S Series 2021|Phụ kiện|4420138.0|193|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-10544276
+2502d4c2-cf6c-41ae-bb20-49d05d0e2274|Apple Điện thoại Plus 2021|Điện thoại|4.1046577E7|418|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-12047654
+aad2f144-e53b-4139-b17c-9fa5409827ab|HP Laptop Note 2021|Laptop|3.9015346E7|256|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-13624939
+fe0997ac-c279-4b12-9bd5-d0b2c7717fe4|Asus Phụ kiện Standard 2024|Phụ kiện|5181574.0|270|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-14919795
+ecba43f0-a9ac-4e9d-bfa6-993b3aafcc34|HP Đồng hồ thông minh Lite 2022|Đồng hồ thông minh|1.5364481E7|446|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-11583031
+f5377dfd-d79d-4918-8940-8afa8bd74330|Asus Đồng hồ thông minh Ultra 2024|Đồng hồ thông minh|3.2156658E7|328|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-13491816
+b55fdca5-7fae-4a33-b1dd-a6ed2b70498b|Lenovo Đồng hồ thông minh Standard 2024|Đồng hồ thông minh|4.888571E7|488|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15188096
+9ba93743-81a4-4b05-adcf-9890628db6b4|Xiaomi Đồng hồ thông minh Standard 2023|Đồng hồ thông minh|4.4480921E7|37|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14003524
+7d8151b9-3e16-4f2f-8a34-c03a81a442a4|Dell Tai nghe Ultra 2023|Tai nghe|1.6576775E7|264|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-11921033
+6208733d-b33e-42ee-900c-a5f5d9594346|HP Tablet A Series 2021|Tablet|3.6475516E7|132|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-11518579
+78b0c2c3-cda3-49f4-b68d-47138a50b509|Sony Phụ kiện Edge 2024|Phụ kiện|4.7840094E7|301|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-13362525
+915c50de-55ff-4839-acd1-d8c717cdd7f9|Samsung Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|3.5289497E7|435|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12630165
+e4d5c214-70a2-428c-9dbc-db05329c12b7|Oppo Điện thoại Note 2021|Điện thoại|7608457.0|355|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12561809
+9dceb2a5-1c44-4db0-8b92-adbda4ffad1b|Sony Tai nghe S Series 2024|Tai nghe|1.615199E7|191|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-10741643
+8fb586b9-6131-4160-9ee9-a8b3ae149c4b|HP Đồng hồ thông minh Pro Max 2022|Đồng hồ thông minh|2.8294927E7|216|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-10334521
+533e3eb7-9ec4-48ba-9c83-cda6f4fe9dab|Huawei Tai nghe Lite 2021|Tai nghe|2.1880389E7|151|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13679719
+fea58539-96e5-41ad-988e-da63195a6e2b|Asus Tai nghe Ultra 2020|Tai nghe|4.6948357E7|362|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-15459221
+882c324f-e2ff-4d0c-a018-85ad4abf7cb3|HP Tai nghe Standard 2022|Tai nghe|3.4176746E7|273|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-12953671
+cc5ca220-6952-418f-9fd8-e6fd21467b8c|Samsung Tai nghe S Series 2021|Tai nghe|4.0158859E7|31|Samsung|Tai nghe cao cấp từ Samsung, hiệu suất mạnh mẽ.|-10347128
+b95163b1-8f2c-4c12-8ea3-4e09c637af2c|Oppo Laptop A Series 2023|Laptop|5067921.0|166|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12699467
+22843cee-b19a-4fdc-932e-5cfb58c299ad|Samsung Tablet Note 2022|Tablet|1.7936359E7|362|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13150618
+8cc01f86-d533-438a-b1dc-71f11cadffff|Samsung Phụ kiện Mini 2023|Phụ kiện|3.9588177E7|364|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12758827
+386307d3-a954-487b-87fd-552a223da8a7|Asus Laptop Standard 2022|Laptop|5966752.0|369|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-10723695
+d86ff1c2-6b99-4138-9034-9b7ed76017cc|Xiaomi Phụ kiện Pro Max 2023|Phụ kiện|8384021.0|246|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13224769
+9fdf3c61-078f-45ca-8db0-b99bfae3fcbb|Lenovo Tablet Mini 2023|Tablet|1.4173759E7|64|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14990993
+067e59a3-2f77-4e6d-82fc-ddf19a3e4174|Lenovo Tai nghe Edge 2022|Tai nghe|1.8791439E7|137|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11786395
+0bec1318-fb50-4d29-a077-67ac61bc7f1b|Huawei Tablet Plus 2020|Tablet|4.4860512E7|336|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10399569
+8121d8da-90a2-415c-bd8e-156c3718231b|Apple Điện thoại Note 2024|Điện thoại|1098605.0|89|Apple|Điện thoại cao cấp từ Apple, hiệu suất mạnh mẽ.|-11188367
+1bb9a874-fc1a-4801-a7a0-becfb2185e0c|Asus Tai nghe S Series 2022|Tai nghe|1.0189359E7|29|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-12301462
+a1e45508-016a-414f-a654-8ba0e930287b|Samsung Tablet Lite 2020|Tablet|1760616.0|184|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11974995
+09854fcc-e5d6-4912-a7ce-91140c6f2a3a|Huawei Tablet S Series 2021|Tablet|1.0323784E7|17|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12428329
+bc1100b4-2b43-4e9c-8f64-8b40aa38841d|Apple Đồng hồ thông minh Ultra 2021|Đồng hồ thông minh|2.3248373E7|10|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-10343471
+fed6e4f8-e33b-49e4-b5a6-9a922e8536e6|Huawei Tablet A Series 2022|Tablet|8772209.0|433|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10601879
+df29ec17-5594-4f4f-a1fe-6ac719daf227|Xiaomi Đồng hồ thông minh Edge 2021|Đồng hồ thông minh|2.5891982E7|190|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14084224
+b5ff7100-4328-4d69-a15e-157745b0d6d9|Oppo Tai nghe Standard 2020|Tai nghe|1.2803772E7|214|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11263308
+46dd6de6-7861-45d6-94e5-e4e30f34b397|Lenovo Đồng hồ thông minh Edge 2024|Đồng hồ thông minh|4437924.0|325|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12758147
+1a37d216-f025-4356-9111-8b8e9765d06b|HP Tablet Edge 2022|Tablet|2.8744518E7|115|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-13686374
+131f77ba-6eba-43c5-b97f-9aa08d3c977b|Dell Tablet Edge 2022|Tablet|3.0688043E7|488|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-12756291
+4a1dddc8-bbe4-4c42-8056-4c4f30842811|HP Tablet S Series 2024|Tablet|1.7989327E7|146|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-11131291
+6918bf6b-ff1d-4cdb-a788-9d7e42086c96|Lenovo Tablet Mini 2023|Tablet|2.3506634E7|308|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12698482
+19a52deb-a03a-4978-8e7d-c1956343b0f7|Asus Laptop Mini 2022|Laptop|4.6718716E7|387|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-12636540
+7d8756a6-0e71-4349-84d2-bbeb004fafa7|HP Tablet Plus 2022|Tablet|4.4724197E7|86|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-11452740
+95e92234-17b1-4665-baba-ddd5831c4a75|Huawei Tai nghe Pro Max 2022|Tai nghe|3.8757176E7|464|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14459513
+ee49c158-1b5e-44f4-b1b4-b9d812232192|Samsung Laptop Edge 2022|Laptop|3.0836242E7|259|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11002423
+1f0c72e4-79ae-44e0-b8d7-5de3fea9236d|Asus Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|7429034.0|335|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-11706702
+f3216491-cd3a-4def-b018-57d8aa15bac2|HP Điện thoại Pro Max 2020|Điện thoại|4.0017693E7|131|HP|Điện thoại cao cấp từ HP, hiệu suất mạnh mẽ.|-11646305
+7dca3e4d-f1a5-436d-b956-42928373b46b|Xiaomi Tablet Edge 2020|Tablet|2.4985756E7|285|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11517851
+adc7d512-0c61-4f75-a244-ad57cdf5f9d9|Dell Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|3.7552896E7|441|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-14272564
+ca403bc5-2dd7-49ee-8c88-ba644a0bfee2|Dell Tablet Standard 2021|Tablet|1.9003185E7|237|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-15314826
+db2dfef5-5215-4f02-a749-2b87fe3b5a5a|Lenovo Tai nghe S Series 2023|Tai nghe|4.0218538E7|53|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13557298
+2d7ea688-ca6b-403d-ad9b-306a5c65b044|Huawei Đồng hồ thông minh Ultra 2021|Đồng hồ thông minh|4.9842185E7|248|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12378009
+cd1b90f8-1187-4ba9-a28a-3faef049b14c|Xiaomi Điện thoại S Series 2024|Điện thoại|2.6667762E7|206|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-14014806
+fd8e706c-e119-4d45-962c-078d53851bdc|Xiaomi Tai nghe Mini 2024|Tai nghe|2.0258876E7|147|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12110649
+adcc16ff-10d6-440b-9326-0e1294befd40|Dell Tablet Note 2021|Tablet|6730529.0|245|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-11974979
+543e9960-80c1-4f29-a0c3-f8dcba5abde2|Sony Laptop Edge 2024|Laptop|1777464.0|252|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-11195750
+9ad88cd1-2cb8-46f8-ab07-481e450119d5|Samsung Đồng hồ thông minh Pro Max 2021|Đồng hồ thông minh|1.2155362E7|403|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-12042892
+cbd61515-6ba3-49a3-b7d1-719d44636468|Asus Tablet Ultra 2020|Tablet|1.6179776E7|179|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-15313302
+f9d9206d-53b1-4643-bfa2-a51eebf5a1df|Dell Tai nghe Mini 2023|Tai nghe|3.6107727E7|326|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-12506728
+a9a2b47c-4076-41ec-8fb6-2e39c1312a7b|Oppo Đồng hồ thông minh Ultra 2021|Đồng hồ thông minh|3649929.0|337|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13560654
+156adff9-1f20-4e4a-a7b7-28759ca21112|Dell Điện thoại Edge 2021|Điện thoại|4.3534497E7|149|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-10340758
+a9ce9206-b2fb-4f04-adf1-618756c35ffc|Sony Tablet A Series 2020|Tablet|4.8975739E7|200|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-10854697
+63d2404d-cd88-4173-8e26-62b9518e5c02|Dell Đồng hồ thông minh Lite 2020|Đồng hồ thông minh|2.4477116E7|197|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-13615997
+87848b39-1ef6-4b8c-8912-ade9e9edb1da|HP Laptop Standard 2021|Laptop|4.8903433E7|127|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-12626017
+4cc85b16-bd2a-4cd2-987e-5a7655c51489|Dell Điện thoại Standard 2023|Điện thoại|4.407158E7|167|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-11120276
+aa57fd90-e111-47dc-b69e-4ad0743f8736|Huawei Tai nghe Lite 2023|Tai nghe|3.3275126E7|221|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13944946
+adcfc079-6b18-48f3-939c-405e8b122036|Samsung Phụ kiện A Series 2021|Phụ kiện|4.2045032E7|484|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13617802
+e9b44b55-b298-49e8-944e-fe21fbf4d19e|Oppo Tai nghe Note 2024|Tai nghe|6631982.0|239|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-15055250
+9e6a8d34-9a1c-4d3a-9c1a-1fda10c2bd67|Sony Phụ kiện Plus 2022|Phụ kiện|7969114.0|217|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-12957221
+98a97391-7463-4bf1-8be2-c5459866c262|HP Tablet Pro Max 2024|Tablet|9476998.0|470|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-10280999
+7a6b7884-d22b-41e3-ba7e-85aa7010200d|Asus Đồng hồ thông minh S Series 2024|Đồng hồ thông minh|1.1070352E7|43|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-12105296
+912c7d5a-3b36-4fbd-b9ad-ee8f7f01fc42|Lenovo Tai nghe Mini 2022|Tai nghe|3.0778648E7|199|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11000474
+892a7d22-49cb-4b3c-b0f2-db93cc164c5d|Oppo Đồng hồ thông minh Standard 2024|Đồng hồ thông minh|2.4173882E7|305|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12174232
+93bf2963-8680-49b7-982c-f74f96704c9e|HP Tai nghe Ultra 2023|Tai nghe|4.6572549E7|472|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-12706939
+c8e086e6-3c54-4451-9b8b-bb44f884f605|Samsung Tablet Plus 2024|Tablet|1.160612E7|362|Samsung|Tablet cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11903549
+e9091565-a743-4ff9-becc-02227954c476|Lenovo Tablet Note 2021|Tablet|2.6956624E7|87|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13685360
+76caf29a-3bb1-49ff-8e65-79130fe6bbcc|HP Laptop Edge 2021|Laptop|2.2667767E7|90|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-11185750
+ebfd2f0c-71a6-4dff-9074-7058cbe9d769|Apple Tai nghe S Series 2021|Tai nghe|4.7749213E7|387|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-13751846
+e791cc50-9125-4968-8a5b-b1ad6e8f5e9b|Dell Laptop A Series 2021|Laptop|3.0164257E7|428|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-12631850
+cf238835-73fd-4789-8efc-291c3af34aab|Huawei Tablet Plus 2021|Tablet|1.7411659E7|372|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14017062
+c8e35d00-15ef-4c99-8327-ae9959eca4af|Sony Tablet Plus 2022|Tablet|4.3791527E7|285|Sony|Tablet cao cấp từ Sony, hiệu suất mạnh mẽ.|-11182410
+65550842-18d3-4c3d-bf2b-d8bce6344d88|Apple Tablet Ultra 2021|Tablet|1.057638E7|424|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-11790699
+a10cc862-b88c-449f-b68c-b7755d29dc5f|Apple Tablet Pro Max 2024|Tablet|3.0453283E7|362|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-10805622
+16b7cc03-034e-4589-a053-1163179ea1a6|Dell Laptop Pro Max 2020|Laptop|1.1507367E7|294|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-12890190
+383ebe64-6fd5-4ebb-ba02-a8d3e1779bd3|Apple Laptop A Series 2021|Laptop|4.3587638E7|121|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-11257412
+5ee76f2e-b51d-4506-b228-b65f659e1232|Huawei Laptop A Series 2024|Laptop|2.5419999E7|97|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12564325
+d1d7ed96-938d-4587-a9f7-bfcdd0861b36|Asus Laptop Mini 2024|Laptop|3.7287442E7|174|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11722338
+b2279096-2f1b-4c2f-872b-9c78387a70a3|Asus Tablet Mini 2020|Tablet|2.3481067E7|363|Asus|Tablet cao cấp từ Asus, hiệu suất mạnh mẽ.|-13625726
+29089a84-cd22-4fe7-8c68-f3c2e600ac5d|Oppo Đồng hồ thông minh Standard 2020|Đồng hồ thông minh|1.1330606E7|334|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-12441995
+deaf21e8-f5fa-47fc-8f1d-5f9aa968876e|Xiaomi Tai nghe Pro Max 2021|Tai nghe|7579402.0|191|Xiaomi|Tai nghe cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-13548409
+cb4d6473-9cf5-40a4-a3fb-dcf095a14d39|Apple Tai nghe Standard 2021|Tai nghe|2.4262668E7|21|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-12177708
+cd11aed6-f269-4d1e-87e7-d3b49591ea53|Sony Laptop Lite 2021|Laptop|3.4375242E7|456|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-12576077
+0aba3ab4-7ce8-4d62-a083-4e5e67d33a16|Oppo Đồng hồ thông minh Mini 2020|Đồng hồ thông minh|4.4173296E7|219|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10669445
+5661a9e2-846a-4f35-9af1-f30851401d06|Lenovo Đồng hồ thông minh Note 2023|Đồng hồ thông minh|4.2051724E7|190|Lenovo|Đồng hồ thông minh cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13941286
+be2f9e5a-dbe0-4816-b6dd-bb6ab9773676|Lenovo Tablet Pro Max 2021|Tablet|1682152.0|209|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-12828202
+82a35e74-6cb2-47be-a7ad-44fd6c429685|Dell Tablet S Series 2021|Tablet|1682561.0|49|Dell|Tablet cao cấp từ Dell, hiệu suất mạnh mẽ.|-14280062
+e6274022-4088-482a-bbfa-f38c869a0d1f|Oppo Phụ kiện Standard 2023|Phụ kiện|9398818.0|137|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14076235
+ca5629f4-42f9-4852-8fda-c06c83b015d5|Dell Laptop Edge 2020|Laptop|4.2316006E7|395|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-10803569
+d316620b-c164-4aa2-bba5-916c4ebd4cc9|Apple Tai nghe Ultra 2024|Tai nghe|1.0657879E7|223|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-13548899
+7339c495-4153-4463-b84c-8d3d7699478e|Asus Đồng hồ thông minh Edge 2022|Đồng hồ thông minh|2.9927035E7|314|Asus|Đồng hồ thông minh cao cấp từ Asus, hiệu suất mạnh mẽ.|-12561810
+46a3a8a4-67c9-495d-b941-e898c477fcfd|Apple Phụ kiện Mini 2024|Phụ kiện|3.2378256E7|373|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-14803259
+825dcc7d-baf1-45bc-9143-faee831e5a41|Apple Phụ kiện Standard 2021|Phụ kiện|4.0368356E7|142|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11004713
+52c91444-b3b5-46d7-a254-3855c3be4803|Apple Tablet S Series 2022|Tablet|4.3229907E7|57|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-15253399
+967a89ce-8d62-432a-81be-08485144d810|Samsung Laptop Mini 2022|Laptop|1.51877E7|168|Samsung|Laptop cao cấp từ Samsung, hiệu suất mạnh mẽ.|-14140801
+b9d840ac-315f-4620-bb1a-e68173326395|Lenovo Điện thoại Standard 2024|Điện thoại|2.6806211E7|343|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-13159571
+f44403d9-7582-4b23-afa3-6ba79456ea40|Xiaomi Phụ kiện A Series 2020|Phụ kiện|2.712175E7|227|Xiaomi|Phụ kiện cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12834440
+62ee2102-5153-4aaf-82bf-18f6bb92612e|Dell Tai nghe S Series 2022|Tai nghe|3.311459E7|62|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-12889232
+c986f577-3f53-4ed0-99b1-b2879f11fbcf|Huawei Đồng hồ thông minh Note 2024|Đồng hồ thông minh|3.8493141E7|95|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14214993
+48c2be4c-bdbd-4dd5-80c8-d4897f748368|Asus Phụ kiện Standard 2022|Phụ kiện|6590028.0|411|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-11922048
+e4633c3c-2ca2-470e-bc20-68ba5c4490e2|Huawei Laptop Ultra 2021|Laptop|3.0934271E7|203|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14276475
+6f2e39ed-be3e-4d82-926a-253d374fdb9f|Lenovo Tablet Pro Max 2023|Tablet|4.1315931E7|415|Lenovo|Tablet cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14406784
+c854a4ee-8180-44bb-9955-47d733278f14|Sony Phụ kiện Mini 2022|Phụ kiện|2.7136812E7|419|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11511848
+fb65a1e9-f36e-4440-bc35-1ccfaccfff30|Huawei Đồng hồ thông minh Ultra 2022|Đồng hồ thông minh|3.4055568E7|247|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11128422
+e6cb3b10-9ee1-41fd-8bf1-b54578abcc93|Huawei Tablet Pro Max 2024|Tablet|4.8147493E7|86|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12624192
+fa18c767-489f-48f9-bf3d-c5987bca9dd9|Oppo Tai nghe S Series 2022|Tai nghe|1.0814559E7|311|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11384177
+cb3d4631-366a-4ec1-a42c-841e072c352a|HP Tablet Lite 2021|Tablet|3.2131176E7|139|HP|Tablet cao cấp từ HP, hiệu suất mạnh mẽ.|-13422385
+30768d1d-4650-4181-8b3f-f1e8a75d414d|Xiaomi Laptop Mini 2022|Laptop|4.8429443E7|214|Xiaomi|Laptop cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12838693
+97e4404a-3a64-4a2e-8546-80c7f2cd61a0|Asus Laptop Standard 2021|Laptop|3.3013009E7|250|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11580717
+b442c32f-f76f-46d6-8ac0-7bfec240b511|Xiaomi Điện thoại Mini 2021|Điện thoại|1.6109424E7|160|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11912572
+e3edf5de-2f87-43e5-8b39-a0b9ab8e6cda|Lenovo Điện thoại Plus 2020|Điện thoại|1187739.0|147|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11774859
+5676016c-db72-44e6-b4ab-c9ccc50f52b5|Asus Tai nghe Ultra 2022|Tai nghe|2.9768046E7|267|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-12114310
+b1040981-151c-4778-8251-c7cb4215fe03|Samsung Đồng hồ thông minh Standard 2022|Đồng hồ thông minh|3131212.0|499|Samsung|Đồng hồ thông minh cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13217638
+018a26aa-a806-4d55-986c-d1f084f557eb|Xiaomi Tablet S Series 2021|Tablet|4.5994888E7|437|Xiaomi|Tablet cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-12824983
+41225668-fefe-4b00-89c0-db472f83c171|Huawei Laptop S Series 2022|Laptop|2.1084599E7|113|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12436082
+6a2cf363-26a6-4687-a3fb-2def1a55bb12|HP Tai nghe Ultra 2020|Tai nghe|4.5696809E7|320|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-10539607
+92684331-11ec-4274-ba95-f8c41f6ac0b1|Oppo Laptop Note 2020|Laptop|1.9723107E7|464|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10280087
+51c0b83a-c557-4bbf-b917-72470511840c|Huawei Phụ kiện Pro Max 2022|Phụ kiện|3.5631504E7|72|Huawei|Phụ kiện cao cấp từ Huawei, hiệu suất mạnh mẽ.|-14605144
+7608de00-7531-452f-9f02-7381482ae062|Asus Laptop Pro Max 2020|Laptop|3.9836882E7|136|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-11844424
+21257ed9-29aa-47d3-bce9-f6c66cd6c88c|Oppo Phụ kiện Edge 2024|Phụ kiện|3.4469666E7|19|Oppo|Phụ kiện cao cấp từ Oppo, hiệu suất mạnh mẽ.|-14537360
+e6e55cd6-a94c-488f-84cc-c914bd041ec4|Sony Phụ kiện Lite 2022|Phụ kiện|5851236.0|357|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-14863208
+c42b4525-128d-4d49-bf21-3d7c13b2dd7c|Asus Điện thoại S Series 2020|Điện thoại|4.1195174E7|86|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-12642397
+0869787f-8088-4f33-8b86-bf71915fbaaa|Huawei Điện thoại Mini 2022|Điện thoại|4.7724707E7|283|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15126586
+ad1f107f-8fd8-4907-9109-5103a6cb5192|Xiaomi Điện thoại Ultra 2021|Điện thoại|1.2963477E7|49|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-11445911
+da70deb3-378f-48fb-9165-6ecbfee81320|Asus Tai nghe Ultra 2021|Tai nghe|4.8073824E7|215|Asus|Tai nghe cao cấp từ Asus, hiệu suất mạnh mẽ.|-14853679
+99e1b903-2ee9-40ea-bc2d-226f7112fce8|Oppo Laptop Standard 2021|Laptop|5935383.0|24|Oppo|Laptop cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11972433
+cae2146f-3ec3-4ac6-a395-3f6e06a557b9|Huawei Đồng hồ thông minh Mini 2022|Đồng hồ thông minh|4.1822339E7|209|Huawei|Đồng hồ thông minh cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12892060
+9ea6ae7c-aab0-48e3-92a9-80ee1b39ecce|Lenovo Phụ kiện Standard 2021|Phụ kiện|2.9891091E7|239|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11000704
+5bb9c4e8-fcb8-4b80-b2ea-8ccbfdeca415|Sony Laptop Standard 2023|Laptop|3.0428584E7|289|Sony|Laptop cao cấp từ Sony, hiệu suất mạnh mẽ.|-14722702
+6d014f58-48ee-44ac-ac74-f33c1006dea0|Oppo Đồng hồ thông minh Note 2020|Đồng hồ thông minh|2.1189286E7|195|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13874799
+8216037f-f0d6-46a6-85f0-3f6a9197655c|Huawei Tablet S Series 2020|Tablet|4.2484461E7|309|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10466409
+095ed3d0-4971-4a91-bd34-216edcb2dbc0|Dell Đồng hồ thông minh S Series 2020|Đồng hồ thông minh|6947644.0|377|Dell|Đồng hồ thông minh cao cấp từ Dell, hiệu suất mạnh mẽ.|-10926961
+d817c50e-bcf8-4848-b9cc-bc5106149be5|Asus Laptop Edge 2023|Laptop|4.7183633E7|219|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-13412169
+951afa8e-f2df-4e9f-96db-2345e2fe8dd1|HP Tai nghe Edge 2022|Tai nghe|3.9639748E7|180|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-14001543
+99e76e81-9f19-4bb2-8e44-082a58f5577d|Apple Tai nghe Pro Max 2020|Tai nghe|1.154963E7|58|Apple|Tai nghe cao cấp từ Apple, hiệu suất mạnh mẽ.|-14013785
+687c6fe6-80e1-4c38-bc34-7a8b1836eeb2|Apple Phụ kiện Ultra 2021|Phụ kiện|2.0999109E7|430|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-14671423
+0de12a78-1572-4fc4-bd1a-b9ffb5e94975|Apple Laptop Plus 2024|Laptop|2.5600304E7|217|Apple|Laptop cao cấp từ Apple, hiệu suất mạnh mẽ.|-13098025
+22b1397f-b07d-4fbe-9e5b-59ced0ceda64|HP Đồng hồ thông minh Standard 2024|Đồng hồ thông minh|6547030.0|446|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-13623658
+0d9155f1-b7c4-41df-94b8-a34442c90d23|Asus Phụ kiện Lite 2022|Phụ kiện|2.6908151E7|353|Asus|Phụ kiện cao cấp từ Asus, hiệu suất mạnh mẽ.|-15126172
+359cc709-586a-46a6-8ce1-b34c8bc69dd2|Dell Tai nghe Plus 2020|Tai nghe|1.9048371E7|466|Dell|Tai nghe cao cấp từ Dell, hiệu suất mạnh mẽ.|-10349171
+873aad26-878f-4688-a77b-2110dcf29a38|Lenovo Phụ kiện S Series 2022|Phụ kiện|4.3405023E7|214|Lenovo|Phụ kiện cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11578750
+3b1639a7-3c5c-4f75-a826-1ff39442dda4|Lenovo Tai nghe Lite 2023|Tai nghe|4.4111027E7|113|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-10733405
+ca2da4e2-1c53-43f7-9838-516c54025c2f|Xiaomi Điện thoại Mini 2022|Điện thoại|8166263.0|124|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10658896
+a9ddf8dd-35db-4a83-974f-284d68f211e0|Huawei Laptop Plus 2020|Laptop|4.2539678E7|274|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-10740783
+52c43254-4318-43a4-98f2-d69f1fb777f3|Samsung Điện thoại A Series 2021|Điện thoại|3.8542711E7|371|Samsung|Điện thoại cao cấp từ Samsung, hiệu suất mạnh mẽ.|-11782795
+7bf6576a-1c73-4914-9b45-5b5745fffda5|Xiaomi Điện thoại Plus 2021|Điện thoại|2.5528932E7|371|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10267468
+7f3c6ce3-fb2a-4616-acb3-f8ffb6a04174|Oppo Đồng hồ thông minh A Series 2022|Đồng hồ thông minh|3067906.0|326|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10273671
+2cf48257-8c3f-47c2-b963-9631a1635811|Huawei Tai nghe Lite 2021|Tai nghe|3.1031088E7|12|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13353509
+c4e82de2-7de0-4a86-8b05-5fde1c3e766b|Lenovo Laptop Note 2021|Laptop|3736596.0|328|Lenovo|Laptop cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11716494
+2f0f0602-335f-4c3b-a83e-31cca7c96d08|Apple Phụ kiện S Series 2024|Phụ kiện|2.7727587E7|139|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-10277221
+b605d89e-5ab9-45a2-8012-2ca7e0b24e64|Samsung Phụ kiện Mini 2023|Phụ kiện|6618750.0|181|Samsung|Phụ kiện cao cấp từ Samsung, hiệu suất mạnh mẽ.|-13808026
+91c377c1-a5a4-408f-ba0a-ef2d1ffb5a98|Apple Tablet A Series 2022|Tablet|2.9717476E7|368|Apple|Tablet cao cấp từ Apple, hiệu suất mạnh mẽ.|-15310397
+3ae736f6-1df6-4d0b-a300-bf95fe83fead|Dell Laptop Edge 2023|Laptop|1.9610004E7|49|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-12113233
+9c00cb6b-706e-4fac-8a32-c6290e2a5c95|Dell Điện thoại S Series 2021|Điện thoại|2.8353053E7|271|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-15053126
+7451cf14-410c-4bbb-8220-b479a1a5c326|Huawei Laptop Mini 2023|Laptop|4.2345073E7|313|Huawei|Laptop cao cấp từ Huawei, hiệu suất mạnh mẽ.|-13952321
+15d77792-f6ef-4030-834a-043e5a3da8fb|Oppo Đồng hồ thông minh Note 2021|Đồng hồ thông minh|1.30162E7|100|Oppo|Đồng hồ thông minh cao cấp từ Oppo, hiệu suất mạnh mẽ.|-13018706
+db7e279e-1790-494a-8514-d8ee06150339|Xiaomi Điện thoại Plus 2022|Điện thoại|1.7251097E7|213|Xiaomi|Điện thoại cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10927463
+b2d507cd-48f2-4d45-8c3b-7e8cef6fa3f4|HP Laptop A Series 2020|Laptop|1.6987632E7|357|HP|Laptop cao cấp từ HP, hiệu suất mạnh mẽ.|-15442263
+78d5e1fa-733f-4184-8342-c4f692a059bf|Dell Điện thoại Edge 2021|Điện thoại|4.0994756E7|361|Dell|Điện thoại cao cấp từ Dell, hiệu suất mạnh mẽ.|-12893512
+dc570fa8-1213-4100-85f0-6a45f547265a|Huawei Tai nghe Mini 2024|Tai nghe|4.8017276E7|266|Huawei|Tai nghe cao cấp từ Huawei, hiệu suất mạnh mẽ.|-12048442
+8fa593b9-9485-4181-a709-f718c2c8c1ad|Dell Laptop Note 2023|Laptop|3.8439811E7|189|Dell|Laptop cao cấp từ Dell, hiệu suất mạnh mẽ.|-11312522
+1d0a8fad-e96d-40be-9b09-d3d84f6ab0fd|HP Tai nghe Mini 2024|Tai nghe|1.5605934E7|139|HP|Tai nghe cao cấp từ HP, hiệu suất mạnh mẽ.|-15379295
+d5b61b2f-011b-4cf5-bd1b-6fc249e9a139|Dell Phụ kiện S Series 2021|Phụ kiện|1.0765508E7|93|Dell|Phụ kiện cao cấp từ Dell, hiệu suất mạnh mẽ.|-10725246
+bf77771e-23d0-44ac-ab2b-80bd218582a7|HP Đồng hồ thông minh Lite 2020|Đồng hồ thông minh|4.5505906E7|90|HP|Đồng hồ thông minh cao cấp từ HP, hiệu suất mạnh mẽ.|-14478121
+a7b8f92f-d41c-4704-8472-be111711078f|Lenovo Điện thoại Lite 2021|Điện thoại|1.3138936E7|166|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-11381587
+728b2a6c-5a77-4876-975d-a91403bd6b18|Apple Đồng hồ thông minh Note 2022|Đồng hồ thông minh|4955801.0|169|Apple|Đồng hồ thông minh cao cấp từ Apple, hiệu suất mạnh mẽ.|-13409943
+5079a571-52ea-4b54-b100-5b2e62f08106|Xiaomi Đồng hồ thông minh Standard 2024|Đồng hồ thông minh|7585564.0|461|Xiaomi|Đồng hồ thông minh cao cấp từ Xiaomi, hiệu suất mạnh mẽ.|-10938217
+7d7d9c56-0275-4fa7-abbc-d2ac2e0945d5|Lenovo Tai nghe Note 2022|Tai nghe|9337708.0|319|Lenovo|Tai nghe cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-14200372
+5ccd6a43-ad4d-460f-ba5a-fa0183e2ce70|Apple Phụ kiện A Series 2023|Phụ kiện|2.6820381E7|441|Apple|Phụ kiện cao cấp từ Apple, hiệu suất mạnh mẽ.|-11969657
+8d02b9ab-e3c6-4ade-af8b-bde1b7241ad5|Sony Phụ kiện Standard 2020|Phụ kiện|2.3571493E7|293|Sony|Phụ kiện cao cấp từ Sony, hiệu suất mạnh mẽ.|-11651412
+465e95c9-c6bc-4533-9f52-e2a4d70b67b0|Huawei Tablet A Series 2024|Tablet|3.4046877E7|226|Huawei|Tablet cao cấp từ Huawei, hiệu suất mạnh mẽ.|-15115376
+c4007364-2c92-472d-9043-9d6e5a04b0a4|Huawei Điện thoại Mini 2023|Điện thoại|4.6218753E7|349|Huawei|Điện thoại cao cấp từ Huawei, hiệu suất mạnh mẽ.|-11725695
+58ecaacb-3582-457e-9381-3727e32035bd|Oppo Điện thoại Mini 2020|Điện thoại|3.1131994E7|103|Oppo|Điện thoại cao cấp từ Oppo, hiệu suất mạnh mẽ.|-10276926
+e7d4e2f0-cad2-4811-a264-cef1bfb06a38|Asus Điện thoại Plus 2020|Điện thoại|4.2330042E7|468|Asus|Điện thoại cao cấp từ Asus, hiệu suất mạnh mẽ.|-15328040
+2654dc19-9a0b-418a-bd50-e3416eab4a75|Lenovo Điện thoại A Series 2020|Điện thoại|9386295.0|437|Lenovo|Điện thoại cao cấp từ Lenovo, hiệu suất mạnh mẽ.|-15117198
+b5e46ce8-3a10-4a88-af87-33f2e3b88a87|Asus Laptop S Series 2021|Laptop|4158745.0|158|Asus|Laptop cao cấp từ Asus, hiệu suất mạnh mẽ.|-14802803
+39821c52-bbb0-4131-a9c6-07bc7896f5d6|Sony Tai nghe Plus 2022|Tai nghe|2.3709018E7|129|Sony|Tai nghe cao cấp từ Sony, hiệu suất mạnh mẽ.|-10607935
+96d8c271-e3bb-4a58-8733-dd1d0135f9b4|Oppo Tai nghe Plus 2022|Tai nghe|2.0351536E7|62|Oppo|Tai nghe cao cấp từ Oppo, hiệu suất mạnh mẽ.|-11195514
+ef0bc02c-4e92-4d74-b9f5-b962ac03e0b5|Dell XPS|Laptop|4.0E7|4|Dell|Laptop cao cấp|-11773082
+39d79b7e-eee5-4d8f-83fc-96540b825839|iPhone 15|Điện thoại|2.5E7|10|Apple|iPhone mới|-13738078
+863b3c6b-f002-41b6-85a8-0255c76d2aa3|Macbook|Laptop|3.5E7|3|Apple|Macbook Pro|-12627781
+053e75ec-1834-42cc-975c-90d34b372e16|Galaxy S24|Điện thoại|2.2E7|8|Samsung|Flagship|-14729877
+b604bf12-4c76-4769-b16a-478208560f96|Iphone17 MAX|Điện thoại|4.0E7|10|Apple||-11195984
+d7afe376-217f-4d1f-b68e-63042a804bf5|Dell XPS|Laptop|4.0E7|4|Dell|Laptop cao cấp|-10272901
+6a7cc9cc-e055-4213-b8e7-a6dec6c56c48|iPhone 15|Điện thoại|2.5E7|10|Apple|iPhone mới|-12243323
+492c2843-a59b-46ad-87cf-77be232493ce|Macbook|Laptop|3.5E7|3|Apple|Macbook Pro|-14803084
+fff3f92e-613f-490c-9841-357aca5e9a67|Galaxy S24|Điện thoại|2.2E7|8|Samsung|Flagship|-14669460
+e3b908b8-58ff-42ab-83a5-2518743727c8|Dell XPS|Laptop|4.0E7|4|Dell|Laptop cao cấp|-14066293
+b66874a9-5d9c-40df-bb09-93f3f1d635f2|iPhone 15|Điện thoại|2.5E7|10|Apple|iPhone mới|-11649119
+8e49fd0e-1849-482f-a053-3c2a534cfeab|Macbook|Laptop|3.5E7|3|Apple|Macbook Pro|-12820065
+56fff6b8-617a-4e4d-a4ea-18745dfb57f0|Galaxy S24|Điện thoại|2.2E7|8|Samsung|Flagship|-14929246
